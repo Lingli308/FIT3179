@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Airbnb Customer Patterns in Melbourne",
+  "projection": {"type": "equirectangular"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/js/neighbourhoods.json",
+        "format": {"type": "topojson", "feature": "neighbourhoods"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
+      },
+      "mark": {"type": "circle"},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {
+          "field": "reviews_per_month",
+          "type": "quantitative",
+          "scale": {"domain": [1, 22]}
+        },
+        "color": {
+          "field": "reviews_per_month",
+          "type": "quantitative",
+          "scale": {"scheme": "blues"}
+        },
+        "tooltip": [
+          {
+            "field": "neighbourhood",
+            "type": "nominal",
+            "title": "Neighbourhood Name"
+          },
+          {
+            "field": "reviews_per_month",
+            "type": "quantitative",
+            "title": "Monthly Reviews Rate"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
