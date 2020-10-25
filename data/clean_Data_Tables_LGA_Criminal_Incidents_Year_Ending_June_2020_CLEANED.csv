@@ -1,0 +1,831 @@
+﻿Year,Year ending,Police Region,Local Government Area,Incidents Recorded,"Rate per 100,000 population"
+2020,June,1 North West Metro, Banyule,6939,5242
+2020,June,1 North West Metro, Brimbank,15654,7447.2
+2020,June,1 North West Metro, Darebin,11703,7058.5
+2020,June,1 North West Metro, Hobsons Bay,4747,4814.6
+2020,June,1 North West Metro, Hume,15663,6487.9
+2020,June,1 North West Metro, Maribyrnong,7317,7650
+2020,June,1 North West Metro, Melbourne,26405,14082.7
+2020,June,1 North West Metro, Melton,9615,5590.4
+2020,June,1 North West Metro, Moonee Valley,6646,5033.2
+2020,June,1 North West Metro, Moreland,11058,5859.9
+2020,June,1 North West Metro, Nillumbik,1630,2501
+2020,June,1 North West Metro, Whittlesea,12091,5102.4
+2020,June,1 North West Metro, Wyndham,13763,4855.2
+2020,June,1 North West Metro, Yarra,11466,11116.3
+2020,June,1 North West Metro,Total,154697,6688.1
+2020,June,2 Eastern, Alpine,440,3421.9
+2020,June,2 Eastern, Bass Coast,1859,5015
+2020,June,2 Eastern, Baw Baw,3608,6599.4
+2020,June,2 Eastern, Benalla,952,6765
+2020,June,2 Eastern, Boroondara,6776,3674.3
+2020,June,2 Eastern, East Gippsland,3679,7699.1
+2020,June,2 Eastern, Greater Shepparton,6345,9488.4
+2020,June,2 Eastern, Indigo,444,2637.6
+2020,June,2 Eastern, Knox,9074,5490.5
+2020,June,2 Eastern, Latrobe,10089,13290.6
+2020,June,2 Eastern, Manningham,3586,2786.9
+2020,June,2 Eastern, Mansfield,324,3486.3
+2020,June,2 Eastern, Maroondah,5876,4909.2
+2020,June,2 Eastern, Mitchell,3183,6641.3
+2020,June,2 Eastern, Moira,1767,5888.2
+2020,June,2 Eastern, Monash,9538,4686.1
+2020,June,2 Eastern, Murrindindi,633,4297.5
+2020,June,2 Eastern, South Gippsland,1289,4279.5
+2020,June,2 Eastern, Strathbogie,430,3952.1
+2020,June,2 Eastern, Towong,156,2578.4
+2020,June,2 Eastern, Wangaratta,1797,6120.7
+2020,June,2 Eastern, Wellington,3320,7445.1
+2020,June,2 Eastern, Whitehorse,7406,4117.6
+2020,June,2 Eastern, Wodonga,2830,6589.5
+2020,June,2 Eastern, Yarra Ranges,6171,3847.1
+2020,June,2 Eastern,Total,91572,5281.5
+2020,June,3 Southern Metro, Bayside,4067,3776.1
+2020,June,3 Southern Metro, Cardinia,5458,4657.9
+2020,June,3 Southern Metro, Casey,17424,4771.1
+2020,June,3 Southern Metro, Frankston,11282,7848.2
+2020,June,3 Southern Metro, Glen Eira,6317,4013.5
+2020,June,3 Southern Metro, Greater Dandenong,14589,8582.7
+2020,June,3 Southern Metro, Kingston,8930,5347.3
+2020,June,3 Southern Metro, Mornington Peninsula,8732,5162.4
+2020,June,3 Southern Metro, Port Phillip,9912,8419.9
+2020,June,3 Southern Metro, Stonnington,9369,7879.1
+2020,June,3 Southern Metro,Total,96080,5880.1
+2020,June,4 Western, Ararat,1005,8472.6
+2020,June,4 Western, Ballarat,8487,7613.5
+2020,June,4 Western, Buloke,281,4618.6
+2020,June,4 Western, Campaspe,2658,7062.3
+2020,June,4 Western, Central Goldfields,863,6524.7
+2020,June,4 Western, Colac-Otway,1385,6414.6
+2020,June,4 Western, Corangamite,576,3617.7
+2020,June,4 Western, Gannawarra,592,5663.8
+2020,June,4 Western, Glenelg,1149,5852.7
+2020,June,4 Western, Golden Plains,470,1939.1
+2020,June,4 Western, Greater Bendigo,8282,6902.3
+2020,June,4 Western, Greater Geelong,17145,6475.6
+2020,June,4 Western, Hepburn,699,4350.8
+2020,June,4 Western, Hindmarsh,256,4628.3
+2020,June,4 Western, Horsham,1465,7350.5
+2020,June,4 Western, Loddon,366,4886.2
+2020,June,4 Western, Macedon Ranges,1739,3407.3
+2020,June,4 Western, Mildura,5526,9866.5
+2020,June,4 Western, Moorabool,1714,4764.3
+2020,June,4 Western, Mount Alexander,849,4262.7
+2020,June,4 Western, Moyne,502,2945.2
+2020,June,4 Western, Northern Grampians,778,6868.1
+2020,June,4 Western, Pyrenees,363,4853.4
+2020,June,4 Western, Queenscliffe,99,3352.2
+2020,June,4 Western, Southern Grampians,892,5547.1
+2020,June,4 Western, Surf Coast,1058,3086
+2020,June,4 Western, Swan Hill,1760,8549.8
+2020,June,4 Western, Warrnambool,2404,6794
+2020,June,4 Western, West Wimmera,135,3552.3
+2020,June,4 Western, Yarriambiack,361,5479
+2020,June,4 Western,Total,63859,6234.1
+2019,June,1 North West Metro, Banyule,7045,5352.1
+2019,June,1 North West Metro, Brimbank,14169,6762.5
+2019,June,1 North West Metro, Darebin,11169,6802.7
+2019,June,1 North West Metro, Hobsons Bay,4868,4980
+2019,June,1 North West Metro, Hume,15701,6725
+2019,June,1 North West Metro, Maribyrnong,6668,7135.5
+2019,June,1 North West Metro, Melbourne,26138,14605.9
+2019,June,1 North West Metro, Melton,8330,5051.7
+2019,June,1 North West Metro, Moonee Valley,6255,4800.7
+2019,June,1 North West Metro, Moreland,10989,5915.5
+2019,June,1 North West Metro, Nillumbik,1686,2590.1
+2019,June,1 North West Metro, Whittlesea,11904,5170.3
+2019,June,1 North West Metro, Wyndham,11726,4335.1
+2019,June,1 North West Metro, Yarra,10984,10822.2
+2019,June,1 North West Metro,Total,147632,6540.4
+2019,June,2 Eastern, Alpine,412,3215.2
+2019,June,2 Eastern, Bass Coast,1810,4983.5
+2019,June,2 Eastern, Baw Baw,3338,6251.4
+2019,June,2 Eastern, Benalla,920,6554.1
+2019,June,2 Eastern, Boroondara,5586,3049.1
+2019,June,2 Eastern, East Gippsland,3241,6849.7
+2019,June,2 Eastern, Greater Shepparton,6200,9323.6
+2019,June,2 Eastern, Indigo,410,2454.9
+2019,June,2 Eastern, Knox,8046,4890.1
+2019,June,2 Eastern, Latrobe,9822,12998.8
+2019,June,2 Eastern, Manningham,3517,2756.9
+2019,June,2 Eastern, Mansfield,328,3574.5
+2019,June,2 Eastern, Maroondah,6033,5088.6
+2019,June,2 Eastern, Mitchell,3074,6670.7
+2019,June,2 Eastern, Moira,1792,5988.3
+2019,June,2 Eastern, Monash,8217,4050.8
+2019,June,2 Eastern, Murrindindi,570,3912.1
+2019,June,2 Eastern, South Gippsland,1136,3797.6
+2019,June,2 Eastern, Strathbogie,480,4452.3
+2019,June,2 Eastern, Towong,164,2715.2
+2019,June,2 Eastern, Wangaratta,1691,5793.7
+2019,June,2 Eastern, Wellington,3013,6789.1
+2019,June,2 Eastern, Whitehorse,6480,3625.4
+2019,June,2 Eastern, Wodonga,2460,5845.6
+2019,June,2 Eastern, Yarra Ranges,5808,3642.2
+2019,June,2 Eastern,Total,84548,4916.4
+2019,June,3 Southern Metro, Bayside,3797,3553.2
+2019,June,3 Southern Metro, Cardinia,4842,4317.1
+2019,June,3 Southern Metro, Casey,16410,4637.3
+2019,June,3 Southern Metro, Frankston,10752,7537.7
+2019,June,3 Southern Metro, Glen Eira,5081,3246.4
+2019,June,3 Southern Metro, Greater Dandenong,14375,8546.3
+2019,June,3 Southern Metro, Kingston,8771,5290.7
+2019,June,3 Southern Metro, Mornington Peninsula,8086,4823.5
+2019,June,3 Southern Metro, Port Phillip,9674,8368.4
+2019,June,3 Southern Metro, Stonnington,8235,6992.6
+2019,June,3 Southern Metro,Total,90023,5601.8
+2019,June,4 Western, Ararat,853,7201.4
+2019,June,4 Western, Ballarat,8121,7416.1
+2019,June,4 Western, Buloke,203,3314.8
+2019,June,4 Western, Campaspe,3017,8019.2
+2019,June,4 Western, Central Goldfields,882,6688.9
+2019,June,4 Western, Colac-Otway,1262,5852.3
+2019,June,4 Western, Corangamite,489,3052.4
+2019,June,4 Western, Gannawarra,648,6187.9
+2019,June,4 Western, Glenelg,949,4823.6
+2019,June,4 Western, Golden Plains,469,1977.1
+2019,June,4 Western, Greater Bendigo,8366,7084.2
+2019,June,4 Western, Greater Geelong,15845,6119.3
+2019,June,4 Western, Hepburn,643,4025
+2019,June,4 Western, Hindmarsh,258,4617
+2019,June,4 Western, Horsham,1373,6892.2
+2019,June,4 Western, Loddon,377,5024
+2019,June,4 Western, Macedon Ranges,1794,3571.5
+2019,June,4 Western, Mildura,5349,9590
+2019,June,4 Western, Moorabool,1613,4602.1
+2019,June,4 Western, Mount Alexander,850,4302.9
+2019,June,4 Western, Moyne,487,2872.6
+2019,June,4 Western, Northern Grampians,740,6490.1
+2019,June,4 Western, Pyrenees,394,5273
+2019,June,4 Western, Queenscliffe,123,4183.7
+2019,June,4 Western, Southern Grampians,1015,6304.3
+2019,June,4 Western, Surf Coast,922,2755.9
+2019,June,4 Western, Swan Hill,1844,8930.2
+2019,June,4 Western, Warrnambool,2936,8345.4
+2019,June,4 Western, West Wimmera,144,3749
+2019,June,4 Western, Yarriambiack,298,4488.6
+2019,June,4 Western,Total,62264,6157.5
+2018,June,1 North West Metro, Banyule,7299,5603.8
+2018,June,1 North West Metro, Brimbank,14229,6816.5
+2018,June,1 North West Metro, Darebin,11419,7063.9
+2018,June,1 North West Metro, Hobsons Bay,4823,4998.9
+2018,June,1 North West Metro, Hume,15440,6879.9
+2018,June,1 North West Metro, Maribyrnong,6746,7379.7
+2018,June,1 North West Metro, Melbourne,27570,16187.5
+2018,June,1 North West Metro, Melton,8116,5178.7
+2018,June,1 North West Metro, Moonee Valley,6776,5297.6
+2018,June,1 North West Metro, Moreland,11191,6156.3
+2018,June,1 North West Metro, Nillumbik,1726,2657.8
+2018,June,1 North West Metro, Whittlesea,11570,5180.3
+2018,June,1 North West Metro, Wyndham,11051,4327.5
+2018,June,1 North West Metro, Yarra,10909,11067.6
+2018,June,1 North West Metro,Total,148865,6791.6
+2018,June,2 Eastern, Alpine,349,2741.6
+2018,June,2 Eastern, Bass Coast,1643,4651
+2018,June,2 Eastern, Baw Baw,2994,5756.4
+2018,June,2 Eastern, Benalla,949,6767.5
+2018,June,2 Eastern, Boroondara,5621,3099.1
+2018,June,2 Eastern, East Gippsland,3183,6799
+2018,June,2 Eastern, Greater Shepparton,6033,9139.8
+2018,June,2 Eastern, Indigo,307,1861.8
+2018,June,2 Eastern, Knox,8461,5184.1
+2018,June,2 Eastern, Latrobe,9644,12822.9
+2018,June,2 Eastern, Manningham,3622,2885.3
+2018,June,2 Eastern, Mansfield,385,4287.8
+2018,June,2 Eastern, Maroondah,5843,4972.6
+2018,June,2 Eastern, Mitchell,3076,6943.9
+2018,June,2 Eastern, Moira,1478,4960.2
+2018,June,2 Eastern, Monash,8383,4187.1
+2018,June,2 Eastern, Murrindindi,563,3888.7
+2018,June,2 Eastern, South Gippsland,945,3195.3
+2018,June,2 Eastern, Strathbogie,446,4190.2
+2018,June,2 Eastern, Towong,166,2742
+2018,June,2 Eastern, Wangaratta,1747,6006.3
+2018,June,2 Eastern, Wellington,2728,6197.6
+2018,June,2 Eastern, Whitehorse,6404,3633
+2018,June,2 Eastern, Wodonga,2390,5768.9
+2018,June,2 Eastern, Yarra Ranges,5568,3520.2
+2018,June,2 Eastern,Total,82928,4880.3
+2018,June,3 Southern Metro, Bayside,3884,3673
+2018,June,3 Southern Metro, Cardinia,4397,4104.9
+2018,June,3 Southern Metro, Casey,14895,4375.2
+2018,June,3 Southern Metro, Frankston,11097,7823.2
+2018,June,3 Southern Metro, Glen Eira,5063,3289.4
+2018,June,3 Southern Metro, Greater Dandenong,13885,8357.4
+2018,June,3 Southern Metro, Kingston,8011,4901.1
+2018,June,3 Southern Metro, Mornington Peninsula,8369,5046.9
+2018,June,3 Southern Metro, Port Phillip,9721,8582.5
+2018,June,3 Southern Metro, Stonnington,8182,7036.4
+2018,June,3 Southern Metro,Total,87504,5559.2
+2018,June,4 Western, Ararat,884,7494.7
+2018,June,4 Western, Ballarat,8660,8069
+2018,June,4 Western, Buloke,184,2975.9
+2018,June,4 Western, Campaspe,2557,6802.3
+2018,June,4 Western, Central Goldfields,993,7518.2
+2018,June,4 Western, Colac-Otway,1270,5906.4
+2018,June,4 Western, Corangamite,593,3674.3
+2018,June,4 Western, Gannawarra,423,4011
+2018,June,4 Western, Glenelg,1108,5634.7
+2018,June,4 Western, Golden Plains,504,2180.1
+2018,June,4 Western, Greater Bendigo,7138,6151.3
+2018,June,4 Western, Greater Geelong,16155,6404.9
+2018,June,4 Western, Hepburn,642,4060.2
+2018,June,4 Western, Hindmarsh,241,4270
+2018,June,4 Western, Horsham,1640,8252
+2018,June,4 Western, Loddon,337,4485.6
+2018,June,4 Western, Macedon Ranges,1508,3053.4
+2018,June,4 Western, Mildura,5100,9186.5
+2018,June,4 Western, Moorabool,1741,5097.2
+2018,June,4 Western, Mount Alexander,667,3418.1
+2018,June,4 Western, Moyne,427,2528.6
+2018,June,4 Western, Northern Grampians,772,6754.2
+2018,June,4 Western, Pyrenees,326,4433.6
+2018,June,4 Western, Queenscliffe,94,3152.2
+2018,June,4 Western, Southern Grampians,1087,6737.3
+2018,June,4 Western, Surf Coast,892,2765.7
+2018,June,4 Western, Swan Hill,1773,8540.5
+2018,June,4 Western, Warrnambool,2704,7756.1
+2018,June,4 Western, West Wimmera,114,2951.8
+2018,June,4 Western, Yarriambiack,347,5211.8
+2018,June,4 Western,Total,60881,6112.9
+2017,June,1 North West Metro, Banyule,7498,5807.2
+2017,June,1 North West Metro, Brimbank,13919,6724.3
+2017,June,1 North West Metro, Darebin,12705,8003.1
+2017,June,1 North West Metro, Hobsons Bay,5113,5378.1
+2017,June,1 North West Metro, Hume,16251,7550.2
+2017,June,1 North West Metro, Maribyrnong,6787,7595
+2017,June,1 North West Metro, Melbourne,27048,16996.2
+2017,June,1 North West Metro, Melton,8568,5765.1
+2017,June,1 North West Metro, Moonee Valley,7479,5963.6
+2017,June,1 North West Metro, Moreland,11399,6441.1
+2017,June,1 North West Metro, Nillumbik,2093,3239
+2017,June,1 North West Metro, Whittlesea,12217,5664.3
+2017,June,1 North West Metro, Wyndham,11450,4749.6
+2017,June,1 North West Metro, Yarra,11130,11594.5
+2017,June,1 North West Metro,Total,153657,7241
+2017,June,2 Eastern, Alpine,279,2207.6
+2017,June,2 Eastern, Bass Coast,2049,5958.8
+2017,June,2 Eastern, Baw Baw,2832,5588.4
+2017,June,2 Eastern, Benalla,983,7034.5
+2017,June,2 Eastern, Boroondara,6770,3767.9
+2017,June,2 Eastern, East Gippsland,2921,6331.3
+2017,June,2 Eastern, Greater Shepparton,6161,9398.4
+2017,June,2 Eastern, Indigo,367,2247
+2017,June,2 Eastern, Knox,9172,5667.8
+2017,June,2 Eastern, Latrobe,9973,13313.7
+2017,June,2 Eastern, Manningham,4044,3254.2
+2017,June,2 Eastern, Mansfield,506,5752.6
+2017,June,2 Eastern, Maroondah,6767,5817.5
+2017,June,2 Eastern, Mitchell,2995,6980.9
+2017,June,2 Eastern, Moira,1470,4957.5
+2017,June,2 Eastern, Monash,8934,4536.8
+2017,June,2 Eastern, Murrindindi,515,3618.1
+2017,June,2 Eastern, South Gippsland,1167,3980.1
+2017,June,2 Eastern, Strathbogie,453,4320.9
+2017,June,2 Eastern, Towong,173,2864.7
+2017,June,2 Eastern, Wangaratta,1864,6460.3
+2017,June,2 Eastern, Wellington,3081,7034.1
+2017,June,2 Eastern, Whitehorse,6833,3943.7
+2017,June,2 Eastern, Wodonga,2513,6157.5
+2017,June,2 Eastern, Yarra Ranges,6162,3928.1
+2017,June,2 Eastern,Total,88984,5300.9
+2017,June,3 Southern Metro, Bayside,4008,3843.4
+2017,June,3 Southern Metro, Cardinia,5007,4889.5
+2017,June,3 Southern Metro, Casey,17225,5271.3
+2017,June,3 Southern Metro, Frankston,11904,8459.5
+2017,June,3 Southern Metro, Glen Eira,5797,3827.5
+2017,June,3 Southern Metro, Greater Dandenong,14877,9098.1
+2017,June,3 Southern Metro, Kingston,8282,5142.5
+2017,June,3 Southern Metro, Mornington Peninsula,8938,5455.5
+2017,June,3 Southern Metro, Port Phillip,10320,9326.2
+2017,June,3 Southern Metro, Stonnington,8675,7624.9
+2017,June,3 Southern Metro,Total,95033,6177.1
+2017,June,4 Western, Ararat,945,8038.4
+2017,June,4 Western, Ballarat,9299,8820.7
+2017,June,4 Western, Buloke,137,2207.9
+2017,June,4 Western, Campaspe,2681,7130.9
+2017,June,4 Western, Central Goldfields,864,6571.3
+2017,June,4 Western, Colac-Otway,1620,7559.5
+2017,June,4 Western, Corangamite,819,5052.4
+2017,June,4 Western, Gannawarra,531,5024.1
+2017,June,4 Western, Glenelg,1351,6860.7
+2017,June,4 Western, Golden Plains,541,2397.2
+2017,June,4 Western, Greater Bendigo,7868,6896.2
+2017,June,4 Western, Greater Geelong,17832,7256.8
+2017,June,4 Western, Hepburn,685,4382.9
+2017,June,4 Western, Hindmarsh,286,5001.7
+2017,June,4 Western, Horsham,1700,8549.2
+2017,June,4 Western, Loddon,350,4662.3
+2017,June,4 Western, Macedon Ranges,1690,3490.1
+2017,June,4 Western, Mildura,5150,9339.5
+2017,June,4 Western, Moorabool,2012,6016.4
+2017,June,4 Western, Mount Alexander,866,4487.7
+2017,June,4 Western, Moyne,524,3120.3
+2017,June,4 Western, Northern Grampians,922,8005.6
+2017,June,4 Western, Pyrenees,360,4892.6
+2017,June,4 Western, Queenscliffe,134,4528.6
+2017,June,4 Western, Southern Grampians,1019,6320.2
+2017,June,4 Western, Surf Coast,1119,3569.7
+2017,June,4 Western, Swan Hill,1769,8485.6
+2017,June,4 Western, Warrnambool,2722,7874.1
+2017,June,4 Western, West Wimmera,134,3441.2
+2017,June,4 Western, Yarriambiack,350,5236.4
+2017,June,4 Western,Total,66280,6752.6
+2016,June,1 North West Metro, Banyule,7245,5684.7
+2016,June,1 North West Metro, Brimbank,15303,7494.5
+2016,June,1 North West Metro, Darebin,12467,8036.7
+2016,June,1 North West Metro, Hobsons Bay,5467,5850.5
+2016,June,1 North West Metro, Hume,16259,7853
+2016,June,1 North West Metro, Maribyrnong,7402,8513.7
+2016,June,1 North West Metro, Melbourne,26528,18157.9
+2016,June,1 North West Metro, Melton,8985,6353.4
+2016,June,1 North West Metro, Moonee Valley,7327,5963.2
+2016,June,1 North West Metro, Moreland,11807,6852.8
+2016,June,1 North West Metro, Nillumbik,2113,3292.6
+2016,June,1 North West Metro, Whittlesea,11975,5783.4
+2016,June,1 North West Metro, Wyndham,12367,5447.8
+2016,June,1 North West Metro, Yarra,10727,11547.6
+2016,June,1 North West Metro,Total,155972,7615.8
+2016,June,2 Eastern, Alpine,295,2345.4
+2016,June,2 Eastern, Bass Coast,2017,6027.4
+2016,June,2 Eastern, Baw Baw,2798,5675.9
+2016,June,2 Eastern, Benalla,947,6773
+2016,June,2 Eastern, Boroondara,6343,3578
+2016,June,2 Eastern, East Gippsland,3213,7046.1
+2016,June,2 Eastern, Greater Shepparton,5889,9050
+2016,June,2 Eastern, Indigo,356,2202.3
+2016,June,2 Eastern, Knox,8056,5023.9
+2016,June,2 Eastern, Latrobe,9853,13203.9
+2016,June,2 Eastern, Manningham,3445,2810.6
+2016,June,2 Eastern, Mansfield,441,5084.2
+2016,June,2 Eastern, Maroondah,6350,5531.4
+2016,June,2 Eastern, Mitchell,3096,7407.6
+2016,June,2 Eastern, Moira,1207,4093.5
+2016,June,2 Eastern, Monash,8160,4236.2
+2016,June,2 Eastern, Murrindindi,569,4049.2
+2016,June,2 Eastern, South Gippsland,945,3245
+2016,June,2 Eastern, Strathbogie,421,4064.9
+2016,June,2 Eastern, Towong,192,3175.7
+2016,June,2 Eastern, Wangaratta,1723,6026.2
+2016,June,2 Eastern, Wellington,3201,7353.5
+2016,June,2 Eastern, Whitehorse,5709,3365.3
+2016,June,2 Eastern, Wodonga,2558,6379.1
+2016,June,2 Eastern, Yarra Ranges,6144,3958.1
+2016,June,2 Eastern,Total,83928,5071.1
+2016,June,3 Southern Metro, Bayside,3971,3858.6
+2016,June,3 Southern Metro, Cardinia,5088,5214.6
+2016,June,3 Southern Metro, Casey,16443,5256.9
+2016,June,3 Southern Metro, Frankston,11571,8294.5
+2016,June,3 Southern Metro, Glen Eira,5394,3630.3
+2016,June,3 Southern Metro, Greater Dandenong,14619,9124.2
+2016,June,3 Southern Metro, Kingston,8379,5271.8
+2016,June,3 Southern Metro, Mornington Peninsula,8732,5405.9
+2016,June,3 Southern Metro, Port Phillip,10185,9376.1
+2016,June,3 Southern Metro, Stonnington,8497,7654.7
+2016,June,3 Southern Metro,Total,92879,6185
+2016,June,4 Western, Ararat,877,7467
+2016,June,4 Western, Ballarat,8955,8652.2
+2016,June,4 Western, Buloke,185,2944
+2016,June,4 Western, Campaspe,2619,6966.4
+2016,June,4 Western, Central Goldfields,994,7595.3
+2016,June,4 Western, Colac-Otway,1240,5804.7
+2016,June,4 Western, Corangamite,603,3712.4
+2016,June,4 Western, Gannawarra,440,4163.9
+2016,June,4 Western, Glenelg,1315,6655.2
+2016,June,4 Western, Golden Plains,645,2929.7
+2016,June,4 Western, Greater Bendigo,6970,6208.4
+2016,June,4 Western, Greater Geelong,17980,7506.4
+2016,June,4 Western, Hepburn,646,4161
+2016,June,4 Western, Hindmarsh,196,3388.7
+2016,June,4 Western, Horsham,1872,9414.6
+2016,June,4 Western, Loddon,360,4763.2
+2016,June,4 Western, Macedon Ranges,1565,3296.1
+2016,June,4 Western, Mildura,4766,8719.7
+2016,June,4 Western, Moorabool,1754,5368.5
+2016,June,4 Western, Mount Alexander,915,4791.3
+2016,June,4 Western, Moyne,427,2551.2
+2016,June,4 Western, Northern Grampians,863,7458.9
+2016,June,4 Western, Pyrenees,395,5399.1
+2016,June,4 Western, Queenscliffe,147,5018.8
+2016,June,4 Western, Southern Grampians,895,5551.1
+2016,June,4 Western, Surf Coast,1148,3768.3
+2016,June,4 Western, Swan Hill,1668,7982.4
+2016,June,4 Western, Warrnambool,2274,6641
+2016,June,4 Western, West Wimmera,107,2717.8
+2016,June,4 Western, Yarriambiack,342,5071.9
+2016,June,4 Western,Total,63163,6528
+2015,June,1 North West Metro, Banyule,6790,5385.1
+2015,June,1 North West Metro, Brimbank,14227,7083
+2015,June,1 North West Metro, Darebin,10916,7182.8
+2015,June,1 North West Metro, Hobsons Bay,5339,5823.9
+2015,June,1 North West Metro, Hume,14007,7068
+2015,June,1 North West Metro, Maribyrnong,6449,7606.5
+2015,June,1 North West Metro, Melbourne,24347,17788.2
+2015,June,1 North West Metro, Melton,7686,5696.9
+2015,June,1 North West Metro, Moonee Valley,6583,5475.3
+2015,June,1 North West Metro, Moreland,10420,6207.2
+2015,June,1 North West Metro, Nillumbik,1730,2716.9
+2015,June,1 North West Metro, Whittlesea,9939,5049.1
+2015,June,1 North West Metro, Wyndham,10275,4805.6
+2015,June,1 North West Metro, Yarra,9715,10803.7
+2015,June,1 North West Metro,Total,138423,6999.2
+2015,June,2 Eastern, Alpine,327,2630.9
+2015,June,2 Eastern, Bass Coast,1891,5804.9
+2015,June,2 Eastern, Baw Baw,2371,4956.4
+2015,June,2 Eastern, Benalla,749,5379.6
+2015,June,2 Eastern, Boroondara,5541,3170.8
+2015,June,2 Eastern, East Gippsland,3049,6795.5
+2015,June,2 Eastern, Greater Shepparton,5529,8573.6
+2015,June,2 Eastern, Indigo,346,2173.1
+2015,June,2 Eastern, Knox,7031,4430.4
+2015,June,2 Eastern, Latrobe,8404,11316.1
+2015,June,2 Eastern, Manningham,3331,2757.8
+2015,June,2 Eastern, Mansfield,332,3892.1
+2015,June,2 Eastern, Maroondah,5718,5059.1
+2015,June,2 Eastern, Mitchell,2362,5866.3
+2015,June,2 Eastern, Moira,1098,3749
+2015,June,2 Eastern, Monash,7104,3755.3
+2015,June,2 Eastern, Murrindindi,513,3704.5
+2015,June,2 Eastern, South Gippsland,933,3241.7
+2015,June,2 Eastern, Strathbogie,320,3145
+2015,June,2 Eastern, Towong,138,2298.1
+2015,June,2 Eastern, Wangaratta,1573,5589.3
+2015,June,2 Eastern, Wellington,2943,6816.9
+2015,June,2 Eastern, Whitehorse,5803,3481.5
+2015,June,2 Eastern, Wodonga,2485,6335.6
+2015,June,2 Eastern, Yarra Ranges,5150,3357.4
+2015,June,2 Eastern,Total,75041,4603.1
+2015,June,3 Southern Metro, Bayside,3410,3367.3
+2015,June,3 Southern Metro, Cardinia,4201,4551.6
+2015,June,3 Southern Metro, Casey,14304,4775.5
+2015,June,3 Southern Metro, Frankston,10594,7688.5
+2015,June,3 Southern Metro, Glen Eira,4600,3152.3
+2015,June,3 Southern Metro, Greater Dandenong,12700,8137.8
+2015,June,3 Southern Metro, Kingston,7515,4809.8
+2015,June,3 Southern Metro, Mornington Peninsula,7554,4756
+2015,June,3 Southern Metro, Port Phillip,9264,8708.3
+2015,June,3 Southern Metro, Stonnington,7412,6861.2
+2015,June,3 Southern Metro,Total,81554,5576.9
+2015,June,4 Western, Ararat,884,7591.9
+2015,June,4 Western, Ballarat,8391,8268.7
+2015,June,4 Western, Buloke,198,3139.9
+2015,June,4 Western, Campaspe,2333,6233.1
+2015,June,4 Western, Central Goldfields,809,6247.1
+2015,June,4 Western, Colac-Otway,1044,4917.6
+2015,June,4 Western, Corangamite,464,2851.2
+2015,June,4 Western, Gannawarra,414,3929.4
+2015,June,4 Western, Glenelg,1363,6911.1
+2015,June,4 Western, Golden Plains,525,2454.6
+2015,June,4 Western, Greater Bendigo,6095,5545.5
+2015,June,4 Western, Greater Geelong,15019,6448
+2015,June,4 Western, Hepburn,542,3534.6
+2015,June,4 Western, Hindmarsh,140,2410.5
+2015,June,4 Western, Horsham,1900,9599.8
+2015,June,4 Western, Loddon,258,3425.8
+2015,June,4 Western, Macedon Ranges,1468,3165.6
+2015,June,4 Western, Mildura,4584,8464.4
+2015,June,4 Western, Moorabool,1524,4800.3
+2015,June,4 Western, Mount Alexander,649,3453.2
+2015,June,4 Western, Moyne,428,2579.7
+2015,June,4 Western, Northern Grampians,773,6638.6
+2015,June,4 Western, Pyrenees,369,5140
+2015,June,4 Western, Queenscliffe,121,4125.5
+2015,June,4 Western, Southern Grampians,722,4467.3
+2015,June,4 Western, Surf Coast,945,3189.9
+2015,June,4 Western, Swan Hill,1617,7739.4
+2015,June,4 Western, Warrnambool,2057,6049.1
+2015,June,4 Western, West Wimmera,87,2189.2
+2015,June,4 Western, Yarriambiack,230,3369.5
+2015,June,4 Western,Total,55953,5882.6
+2014,June,1 North West Metro, Banyule,6842,5468.9
+2014,June,1 North West Metro, Brimbank,14328,7219.3
+2014,June,1 North West Metro, Darebin,10961,7331.2
+2014,June,1 North West Metro, Hobsons Bay,5528,6113.9
+2014,June,1 North West Metro, Hume,12910,6749.3
+2014,June,1 North West Metro, Maribyrnong,6919,8390.4
+2014,June,1 North West Metro, Melbourne,24004,18756.8
+2014,June,1 North West Metro, Melton,7391,5715.8
+2014,June,1 North West Metro, Moonee Valley,6308,5356.5
+2014,June,1 North West Metro, Moreland,9950,6063.4
+2014,June,1 North West Metro, Nillumbik,1617,2549.1
+2014,June,1 North West Metro, Whittlesea,10364,5515.7
+2014,June,1 North West Metro, Wyndham,10281,5101.9
+2014,June,1 North West Metro, Yarra,9900,11349.6
+2014,June,1 North West Metro,Total,137303,7164.4
+2014,June,2 Eastern, Alpine,324,2622.4
+2014,June,2 Eastern, Bass Coast,2132,6679.8
+2014,June,2 Eastern, Baw Baw,2210,4738
+2014,June,2 Eastern, Benalla,850,6116
+2014,June,2 Eastern, Boroondara,6129,3549.8
+2014,June,2 Eastern, East Gippsland,2898,6545.2
+2014,June,2 Eastern, Greater Shepparton,5425,8487.3
+2014,June,2 Eastern, Indigo,335,2129.4
+2014,June,2 Eastern, Knox,7312,4644.5
+2014,June,2 Eastern, Latrobe,7543,10174.8
+2014,June,2 Eastern, Manningham,3179,2661.7
+2014,June,2 Eastern, Mansfield,337,4014.3
+2014,June,2 Eastern, Maroondah,5884,5280.9
+2014,June,2 Eastern, Mitchell,2054,5255.3
+2014,June,2 Eastern, Moira,1126,3869.4
+2014,June,2 Eastern, Monash,6990,3755
+2014,June,2 Eastern, Murrindindi,520,3799.2
+2014,June,2 Eastern, South Gippsland,867,3039.9
+2014,June,2 Eastern, Strathbogie,369,3683.4
+2014,June,2 Eastern, Towong,199,3326.6
+2014,June,2 Eastern, Wangaratta,1685,6047.7
+2014,June,2 Eastern, Wellington,2807,6535.8
+2014,June,2 Eastern, Whitehorse,5802,3530.9
+2014,June,2 Eastern, Wodonga,2365,6163.8
+2014,June,2 Eastern, Yarra Ranges,5366,3531
+2014,June,2 Eastern,Total,74708,4639.6
+2014,June,3 Southern Metro, Bayside,3370,3376.9
+2014,June,3 Southern Metro, Cardinia,4083,4636.1
+2014,June,3 Southern Metro, Casey,12240,4250.9
+2014,June,3 Southern Metro, Frankston,10924,8021.7
+2014,June,3 Southern Metro, Glen Eira,4544,3162.3
+2014,June,3 Southern Metro, Greater Dandenong,12078,7939
+2014,June,3 Southern Metro, Kingston,7377,4783.7
+2014,June,3 Southern Metro, Mornington Peninsula,7804,4986.6
+2014,June,3 Southern Metro, Port Phillip,8723,8351.3
+2014,June,3 Southern Metro, Stonnington,7276,6871
+2014,June,3 Southern Metro,Total,78419,5488.2
+2014,June,4 Western, Ararat,765,6617.6
+2014,June,4 Western, Ballarat,7595,7601.5
+2014,June,4 Western, Buloke,161,2541.4
+2014,June,4 Western, Campaspe,2129,5702
+2014,June,4 Western, Central Goldfields,756,5867.7
+2014,June,4 Western, Colac-Otway,1153,5456.4
+2014,June,4 Western, Corangamite,475,2907
+2014,June,4 Western, Gannawarra,452,4290.9
+2014,June,4 Western, Glenelg,1284,6499.6
+2014,June,4 Western, Golden Plains,390,1866.1
+2014,June,4 Western, Greater Bendigo,6189,5732.9
+2014,June,4 Western, Greater Geelong,13977,6137.2
+2014,June,4 Western, Hepburn,501,3299.5
+2014,June,4 Western, Hindmarsh,149,2549.6
+2014,June,4 Western, Horsham,1437,7276.7
+2014,June,4 Western, Loddon,253,3367.5
+2014,June,4 Western, Macedon Ranges,1450,3188.8
+2014,June,4 Western, Mildura,4627,8610.5
+2014,June,4 Western, Moorabool,1402,4513
+2014,June,4 Western, Mount Alexander,632,3416
+2014,June,4 Western, Moyne,464,2810.1
+2014,June,4 Western, Northern Grampians,648,5502.3
+2014,June,4 Western, Pyrenees,355,5037.6
+2014,June,4 Western, Queenscliffe,85,2862
+2014,June,4 Western, Southern Grampians,809,4976.9
+2014,June,4 Western, Surf Coast,1024,3546.4
+2014,June,4 Western, Swan Hill,1508,7201.5
+2014,June,4 Western, Warrnambool,1859,5511.6
+2014,June,4 Western, West Wimmera,98,2426.9
+2014,June,4 Western, Yarriambiack,192,2773
+2014,June,4 Western,Total,52819,5627.9
+2013,June,1 North West Metro, Banyule,5699,4584.4
+2013,June,1 North West Metro, Brimbank,15262,7780
+2013,June,1 North West Metro, Darebin,9127,6197.4
+2013,June,1 North West Metro, Hobsons Bay,5774,6474
+2013,June,1 North West Metro, Hume,11589,6268.6
+2013,June,1 North West Metro, Maribyrnong,7031,8812.8
+2013,June,1 North West Metro, Melbourne,24553,20683
+2013,June,1 North West Metro, Melton,6519,5260
+2013,June,1 North West Metro, Moonee Valley,6606,5721.3
+2013,June,1 North West Metro, Moreland,9261,5777.9
+2013,June,1 North West Metro, Nillumbik,1476,2336.4
+2013,June,1 North West Metro, Whittlesea,9327,5202.7
+2013,June,1 North West Metro, Wyndham,10061,5289.4
+2013,June,1 North West Metro, Yarra,8817,10501.2
+2013,June,1 North West Metro,Total,131102,7061.4
+2013,June,2 Eastern, Alpine,316,2572.7
+2013,June,2 Eastern, Bass Coast,1786,5700.4
+2013,June,2 Eastern, Baw Baw,2178,4773.5
+2013,June,2 Eastern, Benalla,811,5843.8
+2013,June,2 Eastern, Boroondara,5765,3381.5
+2013,June,2 Eastern, East Gippsland,3008,6866.2
+2013,June,2 Eastern, Greater Shepparton,4894,7738.3
+2013,June,2 Eastern, Indigo,347,2223.6
+2013,June,2 Eastern, Knox,6697,4283.4
+2013,June,2 Eastern, Latrobe,7665,10340.8
+2013,June,2 Eastern, Manningham,2813,2376.7
+2013,June,2 Eastern, Mansfield,267,3226.2
+2013,June,2 Eastern, Maroondah,5131,4673.9
+2013,June,2 Eastern, Mitchell,1904,5038.6
+2013,June,2 Eastern, Moira,1045,3615.3
+2013,June,2 Eastern, Monash,6630,3617.9
+2013,June,2 Eastern, Murrindindi,478,3524.3
+2013,June,2 Eastern, South Gippsland,975,3448.5
+2013,June,2 Eastern, Strathbogie,403,4084.3
+2013,June,2 Eastern, Towong,186,3120.3
+2013,June,2 Eastern, Wangaratta,1715,6202.5
+2013,June,2 Eastern, Wellington,2904,6797.6
+2013,June,2 Eastern, Whitehorse,5645,3482.8
+2013,June,2 Eastern, Wodonga,2360,6280.8
+2013,June,2 Eastern, Yarra Ranges,5027,3331.3
+2013,June,2 Eastern,Total,70950,4457.5
+2013,June,3 Southern Metro, Bayside,3441,3502.2
+2013,June,3 Southern Metro, Cardinia,3995,4722.7
+2013,June,3 Southern Metro, Casey,11953,4299.3
+2013,June,3 Southern Metro, Frankston,10709,7970.9
+2013,June,3 Southern Metro, Glen Eira,4650,3291.8
+2013,June,3 Southern Metro, Greater Dandenong,12206,8219.4
+2013,June,3 Southern Metro, Kingston,7125,4677.2
+2013,June,3 Southern Metro, Mornington Peninsula,7150,4642.8
+2013,June,3 Southern Metro, Port Phillip,9079,8887.4
+2013,June,3 Southern Metro, Stonnington,7244,6999.9
+2013,June,3 Southern Metro,Total,77552,5551.5
+2013,June,4 Western, Ararat,879,7650.1
+2013,June,4 Western, Ballarat,8023,8158.1
+2013,June,4 Western, Buloke,224,3506.6
+2013,June,4 Western, Campaspe,2199,5909.2
+2013,June,4 Western, Central Goldfields,868,6773.3
+2013,June,4 Western, Colac-Otway,1069,5082
+2013,June,4 Western, Corangamite,467,2845.8
+2013,June,4 Western, Gannawarra,432,4104.1
+2013,June,4 Western, Glenelg,1099,5551.3
+2013,June,4 Western, Golden Plains,404,1984.1
+2013,June,4 Western, Greater Bendigo,5805,5478.6
+2013,June,4 Western, Greater Geelong,13575,6077.7
+2013,June,4 Western, Hepburn,542,3608
+2013,June,4 Western, Hindmarsh,213,3639.8
+2013,June,4 Western, Horsham,1310,6651.8
+2013,June,4 Western, Loddon,306,4070.2
+2013,June,4 Western, Macedon Ranges,1350,3027.2
+2013,June,4 Western, Mildura,4533,8527.7
+2013,June,4 Western, Moorabool,1466,4820.8
+2013,June,4 Western, Mount Alexander,622,3408.8
+2013,June,4 Western, Moyne,472,2872.6
+2013,June,4 Western, Northern Grampians,689,5799.7
+2013,June,4 Western, Pyrenees,266,3834
+2013,June,4 Western, Queenscliffe,86,2864.8
+2013,June,4 Western, Southern Grampians,821,5019.9
+2013,June,4 Western, Surf Coast,1039,3680.7
+2013,June,4 Western, Swan Hill,1394,6637.1
+2013,June,4 Western, Warrnambool,1846,5523.1
+2013,June,4 Western, West Wimmera,149,3613
+2013,June,4 Western, Yarriambiack,248,3526.7
+2013,June,4 Western,Total,52396,5654.6
+2012,June,1 North West Metro, Banyule,6028,4877.7
+2012,June,1 North West Metro, Brimbank,14679,7575.3
+2012,June,1 North West Metro, Darebin,9983,6885.5
+2012,June,1 North West Metro, Hobsons Bay,5409,6123
+2012,June,1 North West Metro, Hume,11560,6450.8
+2012,June,1 North West Metro, Maribyrnong,7204,9334.1
+2012,June,1 North West Metro, Melbourne,24285,22574.3
+2012,June,1 North West Metro, Melton,6791,5739.1
+2012,June,1 North West Metro, Moonee Valley,6490,5709.4
+2012,June,1 North West Metro, Moreland,9447,6018.5
+2012,June,1 North West Metro, Nillumbik,1448,2300.8
+2012,June,1 North West Metro, Whittlesea,9686,5697.9
+2012,June,1 North West Metro, Wyndham,10637,5938.1
+2012,June,1 North West Metro, Yarra,9315,11462.1
+2012,June,1 North West Metro,Total,132962,7399.4
+2012,June,2 Eastern, Alpine,330,2708.7
+2012,June,2 Eastern, Bass Coast,1741,5650.6
+2012,June,2 Eastern, Baw Baw,1954,4390.4
+2012,June,2 Eastern, Benalla,767,5538.3
+2012,June,2 Eastern, Boroondara,5800,3442.5
+2012,June,2 Eastern, East Gippsland,2412,5566.7
+2012,June,2 Eastern, Greater Shepparton,5119,8182.3
+2012,June,2 Eastern, Indigo,374,2420.1
+2012,June,2 Eastern, Knox,6585,4237.3
+2012,June,2 Eastern, Latrobe,7105,9600.8
+2012,June,2 Eastern, Manningham,2948,2510.2
+2012,June,2 Eastern, Mansfield,259,3198.7
+2012,June,2 Eastern, Maroondah,5093,4696.9
+2012,June,2 Eastern, Mitchell,1819,4999.5
+2012,June,2 Eastern, Moira,1187,4139.5
+2012,June,2 Eastern, Monash,6231,3455.7
+2012,June,2 Eastern, Murrindindi,464,3448.3
+2012,June,2 Eastern, South Gippsland,876,3136.9
+2012,June,2 Eastern, Strathbogie,332,3407.2
+2012,June,2 Eastern, Towong,193,3249.2
+2012,June,2 Eastern, Wangaratta,1683,6133.8
+2012,June,2 Eastern, Wellington,2478,5838.1
+2012,June,2 Eastern, Whitehorse,5391,3376.5
+2012,June,2 Eastern, Wodonga,2463,6700.6
+2012,June,2 Eastern, Yarra Ranges,5016,3347
+2012,June,2 Eastern,Total,68620,4361.9
+2012,June,3 Southern Metro, Bayside,3468,3576.3
+2012,June,3 Southern Metro, Cardinia,3625,4507.5
+2012,June,3 Southern Metro, Casey,11129,4133.5
+2012,June,3 Southern Metro, Frankston,9653,7302.1
+2012,June,3 Southern Metro, Glen Eira,4583,3294.4
+2012,June,3 Southern Metro, Greater Dandenong,11238,7744.1
+2012,June,3 Southern Metro, Kingston,7146,4750.2
+2012,June,3 Southern Metro, Mornington Peninsula,7244,4775.2
+2012,June,3 Southern Metro, Port Phillip,8513,8522.1
+2012,June,3 Southern Metro, Stonnington,7341,7238.9
+2012,June,3 Southern Metro,Total,73940,5410.9
+2012,June,4 Western, Ararat,914,8017.5
+2012,June,4 Western, Ballarat,8373,8656.2
+2012,June,4 Western, Buloke,206,3201.7
+2012,June,4 Western, Campaspe,2139,5774.7
+2012,June,4 Western, Central Goldfields,685,5387.8
+2012,June,4 Western, Colac-Otway,1166,5578.4
+2012,June,4 Western, Corangamite,542,3290.8
+2012,June,4 Western, Gannawarra,382,3638.8
+2012,June,4 Western, Glenelg,1111,5604
+2012,June,4 Western, Golden Plains,348,1775.1
+2012,June,4 Western, Greater Bendigo,5399,5196.1
+2012,June,4 Western, Greater Geelong,12803,5842.1
+2012,June,4 Western, Hepburn,546,3683
+2012,June,4 Western, Hindmarsh,200,3414.7
+2012,June,4 Western, Horsham,1312,6691.1
+2012,June,4 Western, Loddon,318,4223.7
+2012,June,4 Western, Macedon Ranges,1209,2760.7
+2012,June,4 Western, Mildura,4395,8375.4
+2012,June,4 Western, Moorabool,1231,4192.4
+2012,June,4 Western, Mount Alexander,682,3777.8
+2012,June,4 Western, Moyne,519,3183.3
+2012,June,4 Western, Northern Grampians,702,5864.7
+2012,June,4 Western, Pyrenees,221,3221.6
+2012,June,4 Western, Queenscliffe,109,3565.6
+2012,June,4 Western, Southern Grampians,804,4884.3
+2012,June,4 Western, Surf Coast,1161,4217.2
+2012,June,4 Western, Swan Hill,1352,6447
+2012,June,4 Western, Warrnambool,1851,5599.1
+2012,June,4 Western, West Wimmera,107,2539.2
+2012,June,4 Western, Yarriambiack,304,4284.7
+2012,June,4 Western,Total,51091,5591.7
+2011,June,1 North West Metro, Banyule,5481,4456.7
+2011,June,1 North West Metro, Brimbank,13852,7233.6
+2011,June,1 North West Metro, Darebin,9037,6322.1
+2011,June,1 North West Metro, Hobsons Bay,4591,5253.2
+2011,June,1 North West Metro, Hume,10674,6124.3
+2011,June,1 North West Metro, Maribyrnong,7109,9459.2
+2011,June,1 North West Metro, Melbourne,24501,24442.3
+2011,June,1 North West Metro, Melton,5602,4973.2
+2011,June,1 North West Metro, Moonee Valley,5973,5324.5
+2011,June,1 North West Metro, Moreland,8688,5632.5
+2011,June,1 North West Metro, Nillumbik,1448,2308.8
+2011,June,1 North West Metro, Whittlesea,8247,5128.7
+2011,June,1 North West Metro, Wyndham,9082,5448.1
+2011,June,1 North West Metro, Yarra,8852,11218.8
+2011,June,1 North West Metro,Total,123137,7065.9
+2011,June,2 Eastern, Alpine,293,2427.9
+2011,June,2 Eastern, Bass Coast,1696,5609.8
+2011,June,2 Eastern, Baw Baw,1591,3666.8
+2011,June,2 Eastern, Benalla,752,5442.2
+2011,June,2 Eastern, Boroondara,5188,3105.4
+2011,June,2 Eastern, East Gippsland,2615,6106.1
+2011,June,2 Eastern, Greater Shepparton,4717,7639.6
+2011,June,2 Eastern, Indigo,379,2474.4
+2011,June,2 Eastern, Knox,5991,3874.5
+2011,June,2 Eastern, Latrobe,6398,8670.8
+2011,June,2 Eastern, Manningham,2725,2334
+2011,June,2 Eastern, Mansfield,315,3966.3
+2011,June,2 Eastern, Maroondah,4941,4603.9
+2011,June,2 Eastern, Mitchell,2002,5702.9
+2011,June,2 Eastern, Moira,1113,3918.2
+2011,June,2 Eastern, Monash,6737,3798.8
+2011,June,2 Eastern, Murrindindi,452,3389.6
+2011,June,2 Eastern, South Gippsland,878,3191.3
+2011,June,2 Eastern, Strathbogie,337,3511.1
+2011,June,2 Eastern, Towong,172,2906.4
+2011,June,2 Eastern, Wangaratta,1641,6030.4
+2011,June,2 Eastern, Wellington,2357,5602.8
+2011,June,2 Eastern, Whitehorse,5231,3320.5
+2011,June,2 Eastern, Wodonga,2293,6365
+2011,June,2 Eastern, Yarra Ranges,5041,3385.5
+2011,June,2 Eastern,Total,65855,4232.7
+2011,June,3 Southern Metro, Bayside,2796,2908.9
+2011,June,3 Southern Metro, Cardinia,3239,4271.3
+2011,June,3 Southern Metro, Casey,11112,4252.9
+2011,June,3 Southern Metro, Frankston,9516,7300.3
+2011,June,3 Southern Metro, Glen Eira,4465,3255.5
+2011,June,3 Southern Metro, Greater Dandenong,11013,7746.5
+2011,June,3 Southern Metro, Kingston,6893,4647.9
+2011,June,3 Southern Metro, Mornington Peninsula,6980,4676.1
+2011,June,3 Southern Metro, Port Phillip,8319,8552
+2011,June,3 Southern Metro, Stonnington,6920,7000.3
+2011,June,3 Southern Metro,Total,71253,5330.9
+2011,June,4 Western, Ararat,773,6825
+2011,June,4 Western, Ballarat,7727,8117.9
+2011,June,4 Western, Buloke,302,4671.3
+2011,June,4 Western, Campaspe,1886,5117.4
+2011,June,4 Western, Central Goldfields,730,5803.3
+2011,June,4 Western, Colac-Otway,1072,5154.1
+2011,June,4 Western, Corangamite,521,3152.6
+2011,June,4 Western, Gannawarra,515,4926.8
+2011,June,4 Western, Glenelg,1287,6484.3
+2011,June,4 Western, Golden Plains,323,1703.8
+2011,June,4 Western, Greater Bendigo,4804,4710
+2011,June,4 Western, Greater Geelong,12605,5840.1
+2011,June,4 Western, Hepburn,495,3383.7
+2011,June,4 Western, Hindmarsh,149,2544.4
+2011,June,4 Western, Horsham,1455,7452.7
+2011,June,4 Western, Loddon,323,4280.4
+2011,June,4 Western, Macedon Ranges,1247,2907.9
+2011,June,4 Western, Mildura,4708,9084.9
+2011,June,4 Western, Moorabool,1075,3749.6
+2011,June,4 Western, Mount Alexander,642,3592.2
+2011,June,4 Western, Moyne,450,2783.4
+2011,June,4 Western, Northern Grampians,842,6985.2
+2011,June,4 Western, Pyrenees,220,3254.9
+2011,June,4 Western, Queenscliffe,98,3201.6
+2011,June,4 Western, Southern Grampians,815,4918.2
+2011,June,4 Western, Surf Coast,1015,3806.3
+2011,June,4 Western, Swan Hill,1402,6719.4
+2011,June,4 Western, Warrnambool,1861,5696.9
+2011,June,4 Western, West Wimmera,90,2099.4
+2011,June,4 Western, Yarriambiack,257,3577.9
+2011,June,4 Western,Total,49689,5509.3
