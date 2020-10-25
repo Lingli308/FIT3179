@@ -1,0 +1,831 @@
+﻿Year,Year ending,Police Region,Local Government Area,Incidents Recorded,Rate per 100000 population
+2020,June,1 North West Metro, Banyule,6939.00 ,5242.00 
+2020,June,1 North West Metro, Brimbank,15654.00 ,7447.20 
+2020,June,1 North West Metro, Darebin,11703.00 ,7058.50 
+2020,June,1 North West Metro, Hobsons Bay,4747.00 ,4814.60 
+2020,June,1 North West Metro, Hume,15663.00 ,6487.90 
+2020,June,1 North West Metro, Maribyrnong,7317.00 ,7650.00 
+2020,June,1 North West Metro, Melbourne,26405.00 ,14082.70 
+2020,June,1 North West Metro, Melton,9615.00 ,5590.40 
+2020,June,1 North West Metro, Moonee Valley,6646.00 ,5033.20 
+2020,June,1 North West Metro, Moreland,11058.00 ,5859.90 
+2020,June,1 North West Metro, Nillumbik,1630.00 ,2501.00 
+2020,June,1 North West Metro, Whittlesea,12091.00 ,5102.40 
+2020,June,1 North West Metro, Wyndham,13763.00 ,4855.20 
+2020,June,1 North West Metro, Yarra,11466.00 ,11116.30 
+2020,June,1 North West Metro,Total,154697.00 ,6688.10 
+2020,June,2 Eastern, Alpine,440.00 ,3421.90 
+2020,June,2 Eastern, Bass Coast,1859.00 ,5015.00 
+2020,June,2 Eastern, Baw Baw,3608.00 ,6599.40 
+2020,June,2 Eastern, Benalla,952.00 ,6765.00 
+2020,June,2 Eastern, Boroondara,6776.00 ,3674.30 
+2020,June,2 Eastern, East Gippsland,3679.00 ,7699.10 
+2020,June,2 Eastern, Greater Shepparton,6345.00 ,9488.40 
+2020,June,2 Eastern, Indigo,444.00 ,2637.60 
+2020,June,2 Eastern, Knox,9074.00 ,5490.50 
+2020,June,2 Eastern, Latrobe,10089.00 ,13290.60 
+2020,June,2 Eastern, Manningham,3586.00 ,2786.90 
+2020,June,2 Eastern, Mansfield,324.00 ,3486.30 
+2020,June,2 Eastern, Maroondah,5876.00 ,4909.20 
+2020,June,2 Eastern, Mitchell,3183.00 ,6641.30 
+2020,June,2 Eastern, Moira,1767.00 ,5888.20 
+2020,June,2 Eastern, Monash,9538.00 ,4686.10 
+2020,June,2 Eastern, Murrindindi,633.00 ,4297.50 
+2020,June,2 Eastern, South Gippsland,1289.00 ,4279.50 
+2020,June,2 Eastern, Strathbogie,430.00 ,3952.10 
+2020,June,2 Eastern, Towong,156.00 ,2578.40 
+2020,June,2 Eastern, Wangaratta,1797.00 ,6120.70 
+2020,June,2 Eastern, Wellington,3320.00 ,7445.10 
+2020,June,2 Eastern, Whitehorse,7406.00 ,4117.60 
+2020,June,2 Eastern, Wodonga,2830.00 ,6589.50 
+2020,June,2 Eastern, Yarra Ranges,6171.00 ,3847.10 
+2020,June,2 Eastern,Total,91572.00 ,5281.50 
+2020,June,3 Southern Metro, Bayside,4067.00 ,3776.10 
+2020,June,3 Southern Metro, Cardinia,5458.00 ,4657.90 
+2020,June,3 Southern Metro, Casey,17424.00 ,4771.10 
+2020,June,3 Southern Metro, Frankston,11282.00 ,7848.20 
+2020,June,3 Southern Metro, Glen Eira,6317.00 ,4013.50 
+2020,June,3 Southern Metro, Greater Dandenong,14589.00 ,8582.70 
+2020,June,3 Southern Metro, Kingston,8930.00 ,5347.30 
+2020,June,3 Southern Metro, Mornington Peninsula,8732.00 ,5162.40 
+2020,June,3 Southern Metro, Port Phillip,9912.00 ,8419.90 
+2020,June,3 Southern Metro, Stonnington,9369.00 ,7879.10 
+2020,June,3 Southern Metro,Total,96080.00 ,5880.10 
+2020,June,4 Western, Ararat,1005.00 ,8472.60 
+2020,June,4 Western, Ballarat,8487.00 ,7613.50 
+2020,June,4 Western, Buloke,281.00 ,4618.60 
+2020,June,4 Western, Campaspe,2658.00 ,7062.30 
+2020,June,4 Western, Central Goldfields,863.00 ,6524.70 
+2020,June,4 Western, Colac-Otway,1385.00 ,6414.60 
+2020,June,4 Western, Corangamite,576.00 ,3617.70 
+2020,June,4 Western, Gannawarra,592.00 ,5663.80 
+2020,June,4 Western, Glenelg,1149.00 ,5852.70 
+2020,June,4 Western, Golden Plains,470.00 ,1939.10 
+2020,June,4 Western, Greater Bendigo,8282.00 ,6902.30 
+2020,June,4 Western, Greater Geelong,17145.00 ,6475.60 
+2020,June,4 Western, Hepburn,699.00 ,4350.80 
+2020,June,4 Western, Hindmarsh,256.00 ,4628.30 
+2020,June,4 Western, Horsham,1465.00 ,7350.50 
+2020,June,4 Western, Loddon,366.00 ,4886.20 
+2020,June,4 Western, Macedon Ranges,1739.00 ,3407.30 
+2020,June,4 Western, Mildura,5526.00 ,9866.50 
+2020,June,4 Western, Moorabool,1714.00 ,4764.30 
+2020,June,4 Western, Mount Alexander,849.00 ,4262.70 
+2020,June,4 Western, Moyne,502.00 ,2945.20 
+2020,June,4 Western, Northern Grampians,778.00 ,6868.10 
+2020,June,4 Western, Pyrenees,363.00 ,4853.40 
+2020,June,4 Western, Queenscliffe,99.00 ,3352.20 
+2020,June,4 Western, Southern Grampians,892.00 ,5547.10 
+2020,June,4 Western, Surf Coast,1058.00 ,3086.00 
+2020,June,4 Western, Swan Hill,1760.00 ,8549.80 
+2020,June,4 Western, Warrnambool,2404.00 ,6794.00 
+2020,June,4 Western, West Wimmera,135.00 ,3552.30 
+2020,June,4 Western, Yarriambiack,361.00 ,5479.00 
+2020,June,4 Western,Total,63859.00 ,6234.10 
+2019,June,1 North West Metro, Banyule,7045.00 ,5352.10 
+2019,June,1 North West Metro, Brimbank,14169.00 ,6762.50 
+2019,June,1 North West Metro, Darebin,11169.00 ,6802.70 
+2019,June,1 North West Metro, Hobsons Bay,4868.00 ,4980.00 
+2019,June,1 North West Metro, Hume,15701.00 ,6725.00 
+2019,June,1 North West Metro, Maribyrnong,6668.00 ,7135.50 
+2019,June,1 North West Metro, Melbourne,26138.00 ,14605.90 
+2019,June,1 North West Metro, Melton,8330.00 ,5051.70 
+2019,June,1 North West Metro, Moonee Valley,6255.00 ,4800.70 
+2019,June,1 North West Metro, Moreland,10989.00 ,5915.50 
+2019,June,1 North West Metro, Nillumbik,1686.00 ,2590.10 
+2019,June,1 North West Metro, Whittlesea,11904.00 ,5170.30 
+2019,June,1 North West Metro, Wyndham,11726.00 ,4335.10 
+2019,June,1 North West Metro, Yarra,10984.00 ,10822.20 
+2019,June,1 North West Metro,Total,147632.00 ,6540.40 
+2019,June,2 Eastern, Alpine,412.00 ,3215.20 
+2019,June,2 Eastern, Bass Coast,1810.00 ,4983.50 
+2019,June,2 Eastern, Baw Baw,3338.00 ,6251.40 
+2019,June,2 Eastern, Benalla,920.00 ,6554.10 
+2019,June,2 Eastern, Boroondara,5586.00 ,3049.10 
+2019,June,2 Eastern, East Gippsland,3241.00 ,6849.70 
+2019,June,2 Eastern, Greater Shepparton,6200.00 ,9323.60 
+2019,June,2 Eastern, Indigo,410.00 ,2454.90 
+2019,June,2 Eastern, Knox,8046.00 ,4890.10 
+2019,June,2 Eastern, Latrobe,9822.00 ,12998.80 
+2019,June,2 Eastern, Manningham,3517.00 ,2756.90 
+2019,June,2 Eastern, Mansfield,328.00 ,3574.50 
+2019,June,2 Eastern, Maroondah,6033.00 ,5088.60 
+2019,June,2 Eastern, Mitchell,3074.00 ,6670.70 
+2019,June,2 Eastern, Moira,1792.00 ,5988.30 
+2019,June,2 Eastern, Monash,8217.00 ,4050.80 
+2019,June,2 Eastern, Murrindindi,570.00 ,3912.10 
+2019,June,2 Eastern, South Gippsland,1136.00 ,3797.60 
+2019,June,2 Eastern, Strathbogie,480.00 ,4452.30 
+2019,June,2 Eastern, Towong,164.00 ,2715.20 
+2019,June,2 Eastern, Wangaratta,1691.00 ,5793.70 
+2019,June,2 Eastern, Wellington,3013.00 ,6789.10 
+2019,June,2 Eastern, Whitehorse,6480.00 ,3625.40 
+2019,June,2 Eastern, Wodonga,2460.00 ,5845.60 
+2019,June,2 Eastern, Yarra Ranges,5808.00 ,3642.20 
+2019,June,2 Eastern,Total,84548.00 ,4916.40 
+2019,June,3 Southern Metro, Bayside,3797.00 ,3553.20 
+2019,June,3 Southern Metro, Cardinia,4842.00 ,4317.10 
+2019,June,3 Southern Metro, Casey,16410.00 ,4637.30 
+2019,June,3 Southern Metro, Frankston,10752.00 ,7537.70 
+2019,June,3 Southern Metro, Glen Eira,5081.00 ,3246.40 
+2019,June,3 Southern Metro, Greater Dandenong,14375.00 ,8546.30 
+2019,June,3 Southern Metro, Kingston,8771.00 ,5290.70 
+2019,June,3 Southern Metro, Mornington Peninsula,8086.00 ,4823.50 
+2019,June,3 Southern Metro, Port Phillip,9674.00 ,8368.40 
+2019,June,3 Southern Metro, Stonnington,8235.00 ,6992.60 
+2019,June,3 Southern Metro,Total,90023.00 ,5601.80 
+2019,June,4 Western, Ararat,853.00 ,7201.40 
+2019,June,4 Western, Ballarat,8121.00 ,7416.10 
+2019,June,4 Western, Buloke,203.00 ,3314.80 
+2019,June,4 Western, Campaspe,3017.00 ,8019.20 
+2019,June,4 Western, Central Goldfields,882.00 ,6688.90 
+2019,June,4 Western, Colac-Otway,1262.00 ,5852.30 
+2019,June,4 Western, Corangamite,489.00 ,3052.40 
+2019,June,4 Western, Gannawarra,648.00 ,6187.90 
+2019,June,4 Western, Glenelg,949.00 ,4823.60 
+2019,June,4 Western, Golden Plains,469.00 ,1977.10 
+2019,June,4 Western, Greater Bendigo,8366.00 ,7084.20 
+2019,June,4 Western, Greater Geelong,15845.00 ,6119.30 
+2019,June,4 Western, Hepburn,643.00 ,4025.00 
+2019,June,4 Western, Hindmarsh,258.00 ,4617.00 
+2019,June,4 Western, Horsham,1373.00 ,6892.20 
+2019,June,4 Western, Loddon,377.00 ,5024.00 
+2019,June,4 Western, Macedon Ranges,1794.00 ,3571.50 
+2019,June,4 Western, Mildura,5349.00 ,9590.00 
+2019,June,4 Western, Moorabool,1613.00 ,4602.10 
+2019,June,4 Western, Mount Alexander,850.00 ,4302.90 
+2019,June,4 Western, Moyne,487.00 ,2872.60 
+2019,June,4 Western, Northern Grampians,740.00 ,6490.10 
+2019,June,4 Western, Pyrenees,394.00 ,5273.00 
+2019,June,4 Western, Queenscliffe,123.00 ,4183.70 
+2019,June,4 Western, Southern Grampians,1015.00 ,6304.30 
+2019,June,4 Western, Surf Coast,922.00 ,2755.90 
+2019,June,4 Western, Swan Hill,1844.00 ,8930.20 
+2019,June,4 Western, Warrnambool,2936.00 ,8345.40 
+2019,June,4 Western, West Wimmera,144.00 ,3749.00 
+2019,June,4 Western, Yarriambiack,298.00 ,4488.60 
+2019,June,4 Western,Total,62264.00 ,6157.50 
+2018,June,1 North West Metro, Banyule,7299.00 ,5603.80 
+2018,June,1 North West Metro, Brimbank,14229.00 ,6816.50 
+2018,June,1 North West Metro, Darebin,11419.00 ,7063.90 
+2018,June,1 North West Metro, Hobsons Bay,4823.00 ,4998.90 
+2018,June,1 North West Metro, Hume,15440.00 ,6879.90 
+2018,June,1 North West Metro, Maribyrnong,6746.00 ,7379.70 
+2018,June,1 North West Metro, Melbourne,27570.00 ,16187.50 
+2018,June,1 North West Metro, Melton,8116.00 ,5178.70 
+2018,June,1 North West Metro, Moonee Valley,6776.00 ,5297.60 
+2018,June,1 North West Metro, Moreland,11191.00 ,6156.30 
+2018,June,1 North West Metro, Nillumbik,1726.00 ,2657.80 
+2018,June,1 North West Metro, Whittlesea,11570.00 ,5180.30 
+2018,June,1 North West Metro, Wyndham,11051.00 ,4327.50 
+2018,June,1 North West Metro, Yarra,10909.00 ,11067.60 
+2018,June,1 North West Metro,Total,148865.00 ,6791.60 
+2018,June,2 Eastern, Alpine,349.00 ,2741.60 
+2018,June,2 Eastern, Bass Coast,1643.00 ,4651.00 
+2018,June,2 Eastern, Baw Baw,2994.00 ,5756.40 
+2018,June,2 Eastern, Benalla,949.00 ,6767.50 
+2018,June,2 Eastern, Boroondara,5621.00 ,3099.10 
+2018,June,2 Eastern, East Gippsland,3183.00 ,6799.00 
+2018,June,2 Eastern, Greater Shepparton,6033.00 ,9139.80 
+2018,June,2 Eastern, Indigo,307.00 ,1861.80 
+2018,June,2 Eastern, Knox,8461.00 ,5184.10 
+2018,June,2 Eastern, Latrobe,9644.00 ,12822.90 
+2018,June,2 Eastern, Manningham,3622.00 ,2885.30 
+2018,June,2 Eastern, Mansfield,385.00 ,4287.80 
+2018,June,2 Eastern, Maroondah,5843.00 ,4972.60 
+2018,June,2 Eastern, Mitchell,3076.00 ,6943.90 
+2018,June,2 Eastern, Moira,1478.00 ,4960.20 
+2018,June,2 Eastern, Monash,8383.00 ,4187.10 
+2018,June,2 Eastern, Murrindindi,563.00 ,3888.70 
+2018,June,2 Eastern, South Gippsland,945.00 ,3195.30 
+2018,June,2 Eastern, Strathbogie,446.00 ,4190.20 
+2018,June,2 Eastern, Towong,166.00 ,2742.00 
+2018,June,2 Eastern, Wangaratta,1747.00 ,6006.30 
+2018,June,2 Eastern, Wellington,2728.00 ,6197.60 
+2018,June,2 Eastern, Whitehorse,6404.00 ,3633.00 
+2018,June,2 Eastern, Wodonga,2390.00 ,5768.90 
+2018,June,2 Eastern, Yarra Ranges,5568.00 ,3520.20 
+2018,June,2 Eastern,Total,82928.00 ,4880.30 
+2018,June,3 Southern Metro, Bayside,3884.00 ,3673.00 
+2018,June,3 Southern Metro, Cardinia,4397.00 ,4104.90 
+2018,June,3 Southern Metro, Casey,14895.00 ,4375.20 
+2018,June,3 Southern Metro, Frankston,11097.00 ,7823.20 
+2018,June,3 Southern Metro, Glen Eira,5063.00 ,3289.40 
+2018,June,3 Southern Metro, Greater Dandenong,13885.00 ,8357.40 
+2018,June,3 Southern Metro, Kingston,8011.00 ,4901.10 
+2018,June,3 Southern Metro, Mornington Peninsula,8369.00 ,5046.90 
+2018,June,3 Southern Metro, Port Phillip,9721.00 ,8582.50 
+2018,June,3 Southern Metro, Stonnington,8182.00 ,7036.40 
+2018,June,3 Southern Metro,Total,87504.00 ,5559.20 
+2018,June,4 Western, Ararat,884.00 ,7494.70 
+2018,June,4 Western, Ballarat,8660.00 ,8069.00 
+2018,June,4 Western, Buloke,184.00 ,2975.90 
+2018,June,4 Western, Campaspe,2557.00 ,6802.30 
+2018,June,4 Western, Central Goldfields,993.00 ,7518.20 
+2018,June,4 Western, Colac-Otway,1270.00 ,5906.40 
+2018,June,4 Western, Corangamite,593.00 ,3674.30 
+2018,June,4 Western, Gannawarra,423.00 ,4011.00 
+2018,June,4 Western, Glenelg,1108.00 ,5634.70 
+2018,June,4 Western, Golden Plains,504.00 ,2180.10 
+2018,June,4 Western, Greater Bendigo,7138.00 ,6151.30 
+2018,June,4 Western, Greater Geelong,16155.00 ,6404.90 
+2018,June,4 Western, Hepburn,642.00 ,4060.20 
+2018,June,4 Western, Hindmarsh,241.00 ,4270.00 
+2018,June,4 Western, Horsham,1640.00 ,8252.00 
+2018,June,4 Western, Loddon,337.00 ,4485.60 
+2018,June,4 Western, Macedon Ranges,1508.00 ,3053.40 
+2018,June,4 Western, Mildura,5100.00 ,9186.50 
+2018,June,4 Western, Moorabool,1741.00 ,5097.20 
+2018,June,4 Western, Mount Alexander,667.00 ,3418.10 
+2018,June,4 Western, Moyne,427.00 ,2528.60 
+2018,June,4 Western, Northern Grampians,772.00 ,6754.20 
+2018,June,4 Western, Pyrenees,326.00 ,4433.60 
+2018,June,4 Western, Queenscliffe,94.00 ,3152.20 
+2018,June,4 Western, Southern Grampians,1087.00 ,6737.30 
+2018,June,4 Western, Surf Coast,892.00 ,2765.70 
+2018,June,4 Western, Swan Hill,1773.00 ,8540.50 
+2018,June,4 Western, Warrnambool,2704.00 ,7756.10 
+2018,June,4 Western, West Wimmera,114.00 ,2951.80 
+2018,June,4 Western, Yarriambiack,347.00 ,5211.80 
+2018,June,4 Western,Total,60881.00 ,6112.90 
+2017,June,1 North West Metro, Banyule,7498.00 ,5807.20 
+2017,June,1 North West Metro, Brimbank,13919.00 ,6724.30 
+2017,June,1 North West Metro, Darebin,12705.00 ,8003.10 
+2017,June,1 North West Metro, Hobsons Bay,5113.00 ,5378.10 
+2017,June,1 North West Metro, Hume,16251.00 ,7550.20 
+2017,June,1 North West Metro, Maribyrnong,6787.00 ,7595.00 
+2017,June,1 North West Metro, Melbourne,27048.00 ,16996.20 
+2017,June,1 North West Metro, Melton,8568.00 ,5765.10 
+2017,June,1 North West Metro, Moonee Valley,7479.00 ,5963.60 
+2017,June,1 North West Metro, Moreland,11399.00 ,6441.10 
+2017,June,1 North West Metro, Nillumbik,2093.00 ,3239.00 
+2017,June,1 North West Metro, Whittlesea,12217.00 ,5664.30 
+2017,June,1 North West Metro, Wyndham,11450.00 ,4749.60 
+2017,June,1 North West Metro, Yarra,11130.00 ,11594.50 
+2017,June,1 North West Metro,Total,153657.00 ,7241.00 
+2017,June,2 Eastern, Alpine,279.00 ,2207.60 
+2017,June,2 Eastern, Bass Coast,2049.00 ,5958.80 
+2017,June,2 Eastern, Baw Baw,2832.00 ,5588.40 
+2017,June,2 Eastern, Benalla,983.00 ,7034.50 
+2017,June,2 Eastern, Boroondara,6770.00 ,3767.90 
+2017,June,2 Eastern, East Gippsland,2921.00 ,6331.30 
+2017,June,2 Eastern, Greater Shepparton,6161.00 ,9398.40 
+2017,June,2 Eastern, Indigo,367.00 ,2247.00 
+2017,June,2 Eastern, Knox,9172.00 ,5667.80 
+2017,June,2 Eastern, Latrobe,9973.00 ,13313.70 
+2017,June,2 Eastern, Manningham,4044.00 ,3254.20 
+2017,June,2 Eastern, Mansfield,506.00 ,5752.60 
+2017,June,2 Eastern, Maroondah,6767.00 ,5817.50 
+2017,June,2 Eastern, Mitchell,2995.00 ,6980.90 
+2017,June,2 Eastern, Moira,1470.00 ,4957.50 
+2017,June,2 Eastern, Monash,8934.00 ,4536.80 
+2017,June,2 Eastern, Murrindindi,515.00 ,3618.10 
+2017,June,2 Eastern, South Gippsland,1167.00 ,3980.10 
+2017,June,2 Eastern, Strathbogie,453.00 ,4320.90 
+2017,June,2 Eastern, Towong,173.00 ,2864.70 
+2017,June,2 Eastern, Wangaratta,1864.00 ,6460.30 
+2017,June,2 Eastern, Wellington,3081.00 ,7034.10 
+2017,June,2 Eastern, Whitehorse,6833.00 ,3943.70 
+2017,June,2 Eastern, Wodonga,2513.00 ,6157.50 
+2017,June,2 Eastern, Yarra Ranges,6162.00 ,3928.10 
+2017,June,2 Eastern,Total,88984.00 ,5300.90 
+2017,June,3 Southern Metro, Bayside,4008.00 ,3843.40 
+2017,June,3 Southern Metro, Cardinia,5007.00 ,4889.50 
+2017,June,3 Southern Metro, Casey,17225.00 ,5271.30 
+2017,June,3 Southern Metro, Frankston,11904.00 ,8459.50 
+2017,June,3 Southern Metro, Glen Eira,5797.00 ,3827.50 
+2017,June,3 Southern Metro, Greater Dandenong,14877.00 ,9098.10 
+2017,June,3 Southern Metro, Kingston,8282.00 ,5142.50 
+2017,June,3 Southern Metro, Mornington Peninsula,8938.00 ,5455.50 
+2017,June,3 Southern Metro, Port Phillip,10320.00 ,9326.20 
+2017,June,3 Southern Metro, Stonnington,8675.00 ,7624.90 
+2017,June,3 Southern Metro,Total,95033.00 ,6177.10 
+2017,June,4 Western, Ararat,945.00 ,8038.40 
+2017,June,4 Western, Ballarat,9299.00 ,8820.70 
+2017,June,4 Western, Buloke,137.00 ,2207.90 
+2017,June,4 Western, Campaspe,2681.00 ,7130.90 
+2017,June,4 Western, Central Goldfields,864.00 ,6571.30 
+2017,June,4 Western, Colac-Otway,1620.00 ,7559.50 
+2017,June,4 Western, Corangamite,819.00 ,5052.40 
+2017,June,4 Western, Gannawarra,531.00 ,5024.10 
+2017,June,4 Western, Glenelg,1351.00 ,6860.70 
+2017,June,4 Western, Golden Plains,541.00 ,2397.20 
+2017,June,4 Western, Greater Bendigo,7868.00 ,6896.20 
+2017,June,4 Western, Greater Geelong,17832.00 ,7256.80 
+2017,June,4 Western, Hepburn,685.00 ,4382.90 
+2017,June,4 Western, Hindmarsh,286.00 ,5001.70 
+2017,June,4 Western, Horsham,1700.00 ,8549.20 
+2017,June,4 Western, Loddon,350.00 ,4662.30 
+2017,June,4 Western, Macedon Ranges,1690.00 ,3490.10 
+2017,June,4 Western, Mildura,5150.00 ,9339.50 
+2017,June,4 Western, Moorabool,2012.00 ,6016.40 
+2017,June,4 Western, Mount Alexander,866.00 ,4487.70 
+2017,June,4 Western, Moyne,524.00 ,3120.30 
+2017,June,4 Western, Northern Grampians,922.00 ,8005.60 
+2017,June,4 Western, Pyrenees,360.00 ,4892.60 
+2017,June,4 Western, Queenscliffe,134.00 ,4528.60 
+2017,June,4 Western, Southern Grampians,1019.00 ,6320.20 
+2017,June,4 Western, Surf Coast,1119.00 ,3569.70 
+2017,June,4 Western, Swan Hill,1769.00 ,8485.60 
+2017,June,4 Western, Warrnambool,2722.00 ,7874.10 
+2017,June,4 Western, West Wimmera,134.00 ,3441.20 
+2017,June,4 Western, Yarriambiack,350.00 ,5236.40 
+2017,June,4 Western,Total,66280.00 ,6752.60 
+2016,June,1 North West Metro, Banyule,7245.00 ,5684.70 
+2016,June,1 North West Metro, Brimbank,15303.00 ,7494.50 
+2016,June,1 North West Metro, Darebin,12467.00 ,8036.70 
+2016,June,1 North West Metro, Hobsons Bay,5467.00 ,5850.50 
+2016,June,1 North West Metro, Hume,16259.00 ,7853.00 
+2016,June,1 North West Metro, Maribyrnong,7402.00 ,8513.70 
+2016,June,1 North West Metro, Melbourne,26528.00 ,18157.90 
+2016,June,1 North West Metro, Melton,8985.00 ,6353.40 
+2016,June,1 North West Metro, Moonee Valley,7327.00 ,5963.20 
+2016,June,1 North West Metro, Moreland,11807.00 ,6852.80 
+2016,June,1 North West Metro, Nillumbik,2113.00 ,3292.60 
+2016,June,1 North West Metro, Whittlesea,11975.00 ,5783.40 
+2016,June,1 North West Metro, Wyndham,12367.00 ,5447.80 
+2016,June,1 North West Metro, Yarra,10727.00 ,11547.60 
+2016,June,1 North West Metro,Total,155972.00 ,7615.80 
+2016,June,2 Eastern, Alpine,295.00 ,2345.40 
+2016,June,2 Eastern, Bass Coast,2017.00 ,6027.40 
+2016,June,2 Eastern, Baw Baw,2798.00 ,5675.90 
+2016,June,2 Eastern, Benalla,947.00 ,6773.00 
+2016,June,2 Eastern, Boroondara,6343.00 ,3578.00 
+2016,June,2 Eastern, East Gippsland,3213.00 ,7046.10 
+2016,June,2 Eastern, Greater Shepparton,5889.00 ,9050.00 
+2016,June,2 Eastern, Indigo,356.00 ,2202.30 
+2016,June,2 Eastern, Knox,8056.00 ,5023.90 
+2016,June,2 Eastern, Latrobe,9853.00 ,13203.90 
+2016,June,2 Eastern, Manningham,3445.00 ,2810.60 
+2016,June,2 Eastern, Mansfield,441.00 ,5084.20 
+2016,June,2 Eastern, Maroondah,6350.00 ,5531.40 
+2016,June,2 Eastern, Mitchell,3096.00 ,7407.60 
+2016,June,2 Eastern, Moira,1207.00 ,4093.50 
+2016,June,2 Eastern, Monash,8160.00 ,4236.20 
+2016,June,2 Eastern, Murrindindi,569.00 ,4049.20 
+2016,June,2 Eastern, South Gippsland,945.00 ,3245.00 
+2016,June,2 Eastern, Strathbogie,421.00 ,4064.90 
+2016,June,2 Eastern, Towong,192.00 ,3175.70 
+2016,June,2 Eastern, Wangaratta,1723.00 ,6026.20 
+2016,June,2 Eastern, Wellington,3201.00 ,7353.50 
+2016,June,2 Eastern, Whitehorse,5709.00 ,3365.30 
+2016,June,2 Eastern, Wodonga,2558.00 ,6379.10 
+2016,June,2 Eastern, Yarra Ranges,6144.00 ,3958.10 
+2016,June,2 Eastern,Total,83928.00 ,5071.10 
+2016,June,3 Southern Metro, Bayside,3971.00 ,3858.60 
+2016,June,3 Southern Metro, Cardinia,5088.00 ,5214.60 
+2016,June,3 Southern Metro, Casey,16443.00 ,5256.90 
+2016,June,3 Southern Metro, Frankston,11571.00 ,8294.50 
+2016,June,3 Southern Metro, Glen Eira,5394.00 ,3630.30 
+2016,June,3 Southern Metro, Greater Dandenong,14619.00 ,9124.20 
+2016,June,3 Southern Metro, Kingston,8379.00 ,5271.80 
+2016,June,3 Southern Metro, Mornington Peninsula,8732.00 ,5405.90 
+2016,June,3 Southern Metro, Port Phillip,10185.00 ,9376.10 
+2016,June,3 Southern Metro, Stonnington,8497.00 ,7654.70 
+2016,June,3 Southern Metro,Total,92879.00 ,6185.00 
+2016,June,4 Western, Ararat,877.00 ,7467.00 
+2016,June,4 Western, Ballarat,8955.00 ,8652.20 
+2016,June,4 Western, Buloke,185.00 ,2944.00 
+2016,June,4 Western, Campaspe,2619.00 ,6966.40 
+2016,June,4 Western, Central Goldfields,994.00 ,7595.30 
+2016,June,4 Western, Colac-Otway,1240.00 ,5804.70 
+2016,June,4 Western, Corangamite,603.00 ,3712.40 
+2016,June,4 Western, Gannawarra,440.00 ,4163.90 
+2016,June,4 Western, Glenelg,1315.00 ,6655.20 
+2016,June,4 Western, Golden Plains,645.00 ,2929.70 
+2016,June,4 Western, Greater Bendigo,6970.00 ,6208.40 
+2016,June,4 Western, Greater Geelong,17980.00 ,7506.40 
+2016,June,4 Western, Hepburn,646.00 ,4161.00 
+2016,June,4 Western, Hindmarsh,196.00 ,3388.70 
+2016,June,4 Western, Horsham,1872.00 ,9414.60 
+2016,June,4 Western, Loddon,360.00 ,4763.20 
+2016,June,4 Western, Macedon Ranges,1565.00 ,3296.10 
+2016,June,4 Western, Mildura,4766.00 ,8719.70 
+2016,June,4 Western, Moorabool,1754.00 ,5368.50 
+2016,June,4 Western, Mount Alexander,915.00 ,4791.30 
+2016,June,4 Western, Moyne,427.00 ,2551.20 
+2016,June,4 Western, Northern Grampians,863.00 ,7458.90 
+2016,June,4 Western, Pyrenees,395.00 ,5399.10 
+2016,June,4 Western, Queenscliffe,147.00 ,5018.80 
+2016,June,4 Western, Southern Grampians,895.00 ,5551.10 
+2016,June,4 Western, Surf Coast,1148.00 ,3768.30 
+2016,June,4 Western, Swan Hill,1668.00 ,7982.40 
+2016,June,4 Western, Warrnambool,2274.00 ,6641.00 
+2016,June,4 Western, West Wimmera,107.00 ,2717.80 
+2016,June,4 Western, Yarriambiack,342.00 ,5071.90 
+2016,June,4 Western,Total,63163.00 ,6528.00 
+2015,June,1 North West Metro, Banyule,6790.00 ,5385.10 
+2015,June,1 North West Metro, Brimbank,14227.00 ,7083.00 
+2015,June,1 North West Metro, Darebin,10916.00 ,7182.80 
+2015,June,1 North West Metro, Hobsons Bay,5339.00 ,5823.90 
+2015,June,1 North West Metro, Hume,14007.00 ,7068.00 
+2015,June,1 North West Metro, Maribyrnong,6449.00 ,7606.50 
+2015,June,1 North West Metro, Melbourne,24347.00 ,17788.20 
+2015,June,1 North West Metro, Melton,7686.00 ,5696.90 
+2015,June,1 North West Metro, Moonee Valley,6583.00 ,5475.30 
+2015,June,1 North West Metro, Moreland,10420.00 ,6207.20 
+2015,June,1 North West Metro, Nillumbik,1730.00 ,2716.90 
+2015,June,1 North West Metro, Whittlesea,9939.00 ,5049.10 
+2015,June,1 North West Metro, Wyndham,10275.00 ,4805.60 
+2015,June,1 North West Metro, Yarra,9715.00 ,10803.70 
+2015,June,1 North West Metro,Total,138423.00 ,6999.20 
+2015,June,2 Eastern, Alpine,327.00 ,2630.90 
+2015,June,2 Eastern, Bass Coast,1891.00 ,5804.90 
+2015,June,2 Eastern, Baw Baw,2371.00 ,4956.40 
+2015,June,2 Eastern, Benalla,749.00 ,5379.60 
+2015,June,2 Eastern, Boroondara,5541.00 ,3170.80 
+2015,June,2 Eastern, East Gippsland,3049.00 ,6795.50 
+2015,June,2 Eastern, Greater Shepparton,5529.00 ,8573.60 
+2015,June,2 Eastern, Indigo,346.00 ,2173.10 
+2015,June,2 Eastern, Knox,7031.00 ,4430.40 
+2015,June,2 Eastern, Latrobe,8404.00 ,11316.10 
+2015,June,2 Eastern, Manningham,3331.00 ,2757.80 
+2015,June,2 Eastern, Mansfield,332.00 ,3892.10 
+2015,June,2 Eastern, Maroondah,5718.00 ,5059.10 
+2015,June,2 Eastern, Mitchell,2362.00 ,5866.30 
+2015,June,2 Eastern, Moira,1098.00 ,3749.00 
+2015,June,2 Eastern, Monash,7104.00 ,3755.30 
+2015,June,2 Eastern, Murrindindi,513.00 ,3704.50 
+2015,June,2 Eastern, South Gippsland,933.00 ,3241.70 
+2015,June,2 Eastern, Strathbogie,320.00 ,3145.00 
+2015,June,2 Eastern, Towong,138.00 ,2298.10 
+2015,June,2 Eastern, Wangaratta,1573.00 ,5589.30 
+2015,June,2 Eastern, Wellington,2943.00 ,6816.90 
+2015,June,2 Eastern, Whitehorse,5803.00 ,3481.50 
+2015,June,2 Eastern, Wodonga,2485.00 ,6335.60 
+2015,June,2 Eastern, Yarra Ranges,5150.00 ,3357.40 
+2015,June,2 Eastern,Total,75041.00 ,4603.10 
+2015,June,3 Southern Metro, Bayside,3410.00 ,3367.30 
+2015,June,3 Southern Metro, Cardinia,4201.00 ,4551.60 
+2015,June,3 Southern Metro, Casey,14304.00 ,4775.50 
+2015,June,3 Southern Metro, Frankston,10594.00 ,7688.50 
+2015,June,3 Southern Metro, Glen Eira,4600.00 ,3152.30 
+2015,June,3 Southern Metro, Greater Dandenong,12700.00 ,8137.80 
+2015,June,3 Southern Metro, Kingston,7515.00 ,4809.80 
+2015,June,3 Southern Metro, Mornington Peninsula,7554.00 ,4756.00 
+2015,June,3 Southern Metro, Port Phillip,9264.00 ,8708.30 
+2015,June,3 Southern Metro, Stonnington,7412.00 ,6861.20 
+2015,June,3 Southern Metro,Total,81554.00 ,5576.90 
+2015,June,4 Western, Ararat,884.00 ,7591.90 
+2015,June,4 Western, Ballarat,8391.00 ,8268.70 
+2015,June,4 Western, Buloke,198.00 ,3139.90 
+2015,June,4 Western, Campaspe,2333.00 ,6233.10 
+2015,June,4 Western, Central Goldfields,809.00 ,6247.10 
+2015,June,4 Western, Colac-Otway,1044.00 ,4917.60 
+2015,June,4 Western, Corangamite,464.00 ,2851.20 
+2015,June,4 Western, Gannawarra,414.00 ,3929.40 
+2015,June,4 Western, Glenelg,1363.00 ,6911.10 
+2015,June,4 Western, Golden Plains,525.00 ,2454.60 
+2015,June,4 Western, Greater Bendigo,6095.00 ,5545.50 
+2015,June,4 Western, Greater Geelong,15019.00 ,6448.00 
+2015,June,4 Western, Hepburn,542.00 ,3534.60 
+2015,June,4 Western, Hindmarsh,140.00 ,2410.50 
+2015,June,4 Western, Horsham,1900.00 ,9599.80 
+2015,June,4 Western, Loddon,258.00 ,3425.80 
+2015,June,4 Western, Macedon Ranges,1468.00 ,3165.60 
+2015,June,4 Western, Mildura,4584.00 ,8464.40 
+2015,June,4 Western, Moorabool,1524.00 ,4800.30 
+2015,June,4 Western, Mount Alexander,649.00 ,3453.20 
+2015,June,4 Western, Moyne,428.00 ,2579.70 
+2015,June,4 Western, Northern Grampians,773.00 ,6638.60 
+2015,June,4 Western, Pyrenees,369.00 ,5140.00 
+2015,June,4 Western, Queenscliffe,121.00 ,4125.50 
+2015,June,4 Western, Southern Grampians,722.00 ,4467.30 
+2015,June,4 Western, Surf Coast,945.00 ,3189.90 
+2015,June,4 Western, Swan Hill,1617.00 ,7739.40 
+2015,June,4 Western, Warrnambool,2057.00 ,6049.10 
+2015,June,4 Western, West Wimmera,87.00 ,2189.20 
+2015,June,4 Western, Yarriambiack,230.00 ,3369.50 
+2015,June,4 Western,Total,55953.00 ,5882.60 
+2014,June,1 North West Metro, Banyule,6842.00 ,5468.90 
+2014,June,1 North West Metro, Brimbank,14328.00 ,7219.30 
+2014,June,1 North West Metro, Darebin,10961.00 ,7331.20 
+2014,June,1 North West Metro, Hobsons Bay,5528.00 ,6113.90 
+2014,June,1 North West Metro, Hume,12910.00 ,6749.30 
+2014,June,1 North West Metro, Maribyrnong,6919.00 ,8390.40 
+2014,June,1 North West Metro, Melbourne,24004.00 ,18756.80 
+2014,June,1 North West Metro, Melton,7391.00 ,5715.80 
+2014,June,1 North West Metro, Moonee Valley,6308.00 ,5356.50 
+2014,June,1 North West Metro, Moreland,9950.00 ,6063.40 
+2014,June,1 North West Metro, Nillumbik,1617.00 ,2549.10 
+2014,June,1 North West Metro, Whittlesea,10364.00 ,5515.70 
+2014,June,1 North West Metro, Wyndham,10281.00 ,5101.90 
+2014,June,1 North West Metro, Yarra,9900.00 ,11349.60 
+2014,June,1 North West Metro,Total,137303.00 ,7164.40 
+2014,June,2 Eastern, Alpine,324.00 ,2622.40 
+2014,June,2 Eastern, Bass Coast,2132.00 ,6679.80 
+2014,June,2 Eastern, Baw Baw,2210.00 ,4738.00 
+2014,June,2 Eastern, Benalla,850.00 ,6116.00 
+2014,June,2 Eastern, Boroondara,6129.00 ,3549.80 
+2014,June,2 Eastern, East Gippsland,2898.00 ,6545.20 
+2014,June,2 Eastern, Greater Shepparton,5425.00 ,8487.30 
+2014,June,2 Eastern, Indigo,335.00 ,2129.40 
+2014,June,2 Eastern, Knox,7312.00 ,4644.50 
+2014,June,2 Eastern, Latrobe,7543.00 ,10174.80 
+2014,June,2 Eastern, Manningham,3179.00 ,2661.70 
+2014,June,2 Eastern, Mansfield,337.00 ,4014.30 
+2014,June,2 Eastern, Maroondah,5884.00 ,5280.90 
+2014,June,2 Eastern, Mitchell,2054.00 ,5255.30 
+2014,June,2 Eastern, Moira,1126.00 ,3869.40 
+2014,June,2 Eastern, Monash,6990.00 ,3755.00 
+2014,June,2 Eastern, Murrindindi,520.00 ,3799.20 
+2014,June,2 Eastern, South Gippsland,867.00 ,3039.90 
+2014,June,2 Eastern, Strathbogie,369.00 ,3683.40 
+2014,June,2 Eastern, Towong,199.00 ,3326.60 
+2014,June,2 Eastern, Wangaratta,1685.00 ,6047.70 
+2014,June,2 Eastern, Wellington,2807.00 ,6535.80 
+2014,June,2 Eastern, Whitehorse,5802.00 ,3530.90 
+2014,June,2 Eastern, Wodonga,2365.00 ,6163.80 
+2014,June,2 Eastern, Yarra Ranges,5366.00 ,3531.00 
+2014,June,2 Eastern,Total,74708.00 ,4639.60 
+2014,June,3 Southern Metro, Bayside,3370.00 ,3376.90 
+2014,June,3 Southern Metro, Cardinia,4083.00 ,4636.10 
+2014,June,3 Southern Metro, Casey,12240.00 ,4250.90 
+2014,June,3 Southern Metro, Frankston,10924.00 ,8021.70 
+2014,June,3 Southern Metro, Glen Eira,4544.00 ,3162.30 
+2014,June,3 Southern Metro, Greater Dandenong,12078.00 ,7939.00 
+2014,June,3 Southern Metro, Kingston,7377.00 ,4783.70 
+2014,June,3 Southern Metro, Mornington Peninsula,7804.00 ,4986.60 
+2014,June,3 Southern Metro, Port Phillip,8723.00 ,8351.30 
+2014,June,3 Southern Metro, Stonnington,7276.00 ,6871.00 
+2014,June,3 Southern Metro,Total,78419.00 ,5488.20 
+2014,June,4 Western, Ararat,765.00 ,6617.60 
+2014,June,4 Western, Ballarat,7595.00 ,7601.50 
+2014,June,4 Western, Buloke,161.00 ,2541.40 
+2014,June,4 Western, Campaspe,2129.00 ,5702.00 
+2014,June,4 Western, Central Goldfields,756.00 ,5867.70 
+2014,June,4 Western, Colac-Otway,1153.00 ,5456.40 
+2014,June,4 Western, Corangamite,475.00 ,2907.00 
+2014,June,4 Western, Gannawarra,452.00 ,4290.90 
+2014,June,4 Western, Glenelg,1284.00 ,6499.60 
+2014,June,4 Western, Golden Plains,390.00 ,1866.10 
+2014,June,4 Western, Greater Bendigo,6189.00 ,5732.90 
+2014,June,4 Western, Greater Geelong,13977.00 ,6137.20 
+2014,June,4 Western, Hepburn,501.00 ,3299.50 
+2014,June,4 Western, Hindmarsh,149.00 ,2549.60 
+2014,June,4 Western, Horsham,1437.00 ,7276.70 
+2014,June,4 Western, Loddon,253.00 ,3367.50 
+2014,June,4 Western, Macedon Ranges,1450.00 ,3188.80 
+2014,June,4 Western, Mildura,4627.00 ,8610.50 
+2014,June,4 Western, Moorabool,1402.00 ,4513.00 
+2014,June,4 Western, Mount Alexander,632.00 ,3416.00 
+2014,June,4 Western, Moyne,464.00 ,2810.10 
+2014,June,4 Western, Northern Grampians,648.00 ,5502.30 
+2014,June,4 Western, Pyrenees,355.00 ,5037.60 
+2014,June,4 Western, Queenscliffe,85.00 ,2862.00 
+2014,June,4 Western, Southern Grampians,809.00 ,4976.90 
+2014,June,4 Western, Surf Coast,1024.00 ,3546.40 
+2014,June,4 Western, Swan Hill,1508.00 ,7201.50 
+2014,June,4 Western, Warrnambool,1859.00 ,5511.60 
+2014,June,4 Western, West Wimmera,98.00 ,2426.90 
+2014,June,4 Western, Yarriambiack,192.00 ,2773.00 
+2014,June,4 Western,Total,52819.00 ,5627.90 
+2013,June,1 North West Metro, Banyule,5699.00 ,4584.40 
+2013,June,1 North West Metro, Brimbank,15262.00 ,7780.00 
+2013,June,1 North West Metro, Darebin,9127.00 ,6197.40 
+2013,June,1 North West Metro, Hobsons Bay,5774.00 ,6474.00 
+2013,June,1 North West Metro, Hume,11589.00 ,6268.60 
+2013,June,1 North West Metro, Maribyrnong,7031.00 ,8812.80 
+2013,June,1 North West Metro, Melbourne,24553.00 ,20683.00 
+2013,June,1 North West Metro, Melton,6519.00 ,5260.00 
+2013,June,1 North West Metro, Moonee Valley,6606.00 ,5721.30 
+2013,June,1 North West Metro, Moreland,9261.00 ,5777.90 
+2013,June,1 North West Metro, Nillumbik,1476.00 ,2336.40 
+2013,June,1 North West Metro, Whittlesea,9327.00 ,5202.70 
+2013,June,1 North West Metro, Wyndham,10061.00 ,5289.40 
+2013,June,1 North West Metro, Yarra,8817.00 ,10501.20 
+2013,June,1 North West Metro,Total,131102.00 ,7061.40 
+2013,June,2 Eastern, Alpine,316.00 ,2572.70 
+2013,June,2 Eastern, Bass Coast,1786.00 ,5700.40 
+2013,June,2 Eastern, Baw Baw,2178.00 ,4773.50 
+2013,June,2 Eastern, Benalla,811.00 ,5843.80 
+2013,June,2 Eastern, Boroondara,5765.00 ,3381.50 
+2013,June,2 Eastern, East Gippsland,3008.00 ,6866.20 
+2013,June,2 Eastern, Greater Shepparton,4894.00 ,7738.30 
+2013,June,2 Eastern, Indigo,347.00 ,2223.60 
+2013,June,2 Eastern, Knox,6697.00 ,4283.40 
+2013,June,2 Eastern, Latrobe,7665.00 ,10340.80 
+2013,June,2 Eastern, Manningham,2813.00 ,2376.70 
+2013,June,2 Eastern, Mansfield,267.00 ,3226.20 
+2013,June,2 Eastern, Maroondah,5131.00 ,4673.90 
+2013,June,2 Eastern, Mitchell,1904.00 ,5038.60 
+2013,June,2 Eastern, Moira,1045.00 ,3615.30 
+2013,June,2 Eastern, Monash,6630.00 ,3617.90 
+2013,June,2 Eastern, Murrindindi,478.00 ,3524.30 
+2013,June,2 Eastern, South Gippsland,975.00 ,3448.50 
+2013,June,2 Eastern, Strathbogie,403.00 ,4084.30 
+2013,June,2 Eastern, Towong,186.00 ,3120.30 
+2013,June,2 Eastern, Wangaratta,1715.00 ,6202.50 
+2013,June,2 Eastern, Wellington,2904.00 ,6797.60 
+2013,June,2 Eastern, Whitehorse,5645.00 ,3482.80 
+2013,June,2 Eastern, Wodonga,2360.00 ,6280.80 
+2013,June,2 Eastern, Yarra Ranges,5027.00 ,3331.30 
+2013,June,2 Eastern,Total,70950.00 ,4457.50 
+2013,June,3 Southern Metro, Bayside,3441.00 ,3502.20 
+2013,June,3 Southern Metro, Cardinia,3995.00 ,4722.70 
+2013,June,3 Southern Metro, Casey,11953.00 ,4299.30 
+2013,June,3 Southern Metro, Frankston,10709.00 ,7970.90 
+2013,June,3 Southern Metro, Glen Eira,4650.00 ,3291.80 
+2013,June,3 Southern Metro, Greater Dandenong,12206.00 ,8219.40 
+2013,June,3 Southern Metro, Kingston,7125.00 ,4677.20 
+2013,June,3 Southern Metro, Mornington Peninsula,7150.00 ,4642.80 
+2013,June,3 Southern Metro, Port Phillip,9079.00 ,8887.40 
+2013,June,3 Southern Metro, Stonnington,7244.00 ,6999.90 
+2013,June,3 Southern Metro,Total,77552.00 ,5551.50 
+2013,June,4 Western, Ararat,879.00 ,7650.10 
+2013,June,4 Western, Ballarat,8023.00 ,8158.10 
+2013,June,4 Western, Buloke,224.00 ,3506.60 
+2013,June,4 Western, Campaspe,2199.00 ,5909.20 
+2013,June,4 Western, Central Goldfields,868.00 ,6773.30 
+2013,June,4 Western, Colac-Otway,1069.00 ,5082.00 
+2013,June,4 Western, Corangamite,467.00 ,2845.80 
+2013,June,4 Western, Gannawarra,432.00 ,4104.10 
+2013,June,4 Western, Glenelg,1099.00 ,5551.30 
+2013,June,4 Western, Golden Plains,404.00 ,1984.10 
+2013,June,4 Western, Greater Bendigo,5805.00 ,5478.60 
+2013,June,4 Western, Greater Geelong,13575.00 ,6077.70 
+2013,June,4 Western, Hepburn,542.00 ,3608.00 
+2013,June,4 Western, Hindmarsh,213.00 ,3639.80 
+2013,June,4 Western, Horsham,1310.00 ,6651.80 
+2013,June,4 Western, Loddon,306.00 ,4070.20 
+2013,June,4 Western, Macedon Ranges,1350.00 ,3027.20 
+2013,June,4 Western, Mildura,4533.00 ,8527.70 
+2013,June,4 Western, Moorabool,1466.00 ,4820.80 
+2013,June,4 Western, Mount Alexander,622.00 ,3408.80 
+2013,June,4 Western, Moyne,472.00 ,2872.60 
+2013,June,4 Western, Northern Grampians,689.00 ,5799.70 
+2013,June,4 Western, Pyrenees,266.00 ,3834.00 
+2013,June,4 Western, Queenscliffe,86.00 ,2864.80 
+2013,June,4 Western, Southern Grampians,821.00 ,5019.90 
+2013,June,4 Western, Surf Coast,1039.00 ,3680.70 
+2013,June,4 Western, Swan Hill,1394.00 ,6637.10 
+2013,June,4 Western, Warrnambool,1846.00 ,5523.10 
+2013,June,4 Western, West Wimmera,149.00 ,3613.00 
+2013,June,4 Western, Yarriambiack,248.00 ,3526.70 
+2013,June,4 Western,Total,52396.00 ,5654.60 
+2012,June,1 North West Metro, Banyule,6028.00 ,4877.70 
+2012,June,1 North West Metro, Brimbank,14679.00 ,7575.30 
+2012,June,1 North West Metro, Darebin,9983.00 ,6885.50 
+2012,June,1 North West Metro, Hobsons Bay,5409.00 ,6123.00 
+2012,June,1 North West Metro, Hume,11560.00 ,6450.80 
+2012,June,1 North West Metro, Maribyrnong,7204.00 ,9334.10 
+2012,June,1 North West Metro, Melbourne,24285.00 ,22574.30 
+2012,June,1 North West Metro, Melton,6791.00 ,5739.10 
+2012,June,1 North West Metro, Moonee Valley,6490.00 ,5709.40 
+2012,June,1 North West Metro, Moreland,9447.00 ,6018.50 
+2012,June,1 North West Metro, Nillumbik,1448.00 ,2300.80 
+2012,June,1 North West Metro, Whittlesea,9686.00 ,5697.90 
+2012,June,1 North West Metro, Wyndham,10637.00 ,5938.10 
+2012,June,1 North West Metro, Yarra,9315.00 ,11462.10 
+2012,June,1 North West Metro,Total,132962.00 ,7399.40 
+2012,June,2 Eastern, Alpine,330.00 ,2708.70 
+2012,June,2 Eastern, Bass Coast,1741.00 ,5650.60 
+2012,June,2 Eastern, Baw Baw,1954.00 ,4390.40 
+2012,June,2 Eastern, Benalla,767.00 ,5538.30 
+2012,June,2 Eastern, Boroondara,5800.00 ,3442.50 
+2012,June,2 Eastern, East Gippsland,2412.00 ,5566.70 
+2012,June,2 Eastern, Greater Shepparton,5119.00 ,8182.30 
+2012,June,2 Eastern, Indigo,374.00 ,2420.10 
+2012,June,2 Eastern, Knox,6585.00 ,4237.30 
+2012,June,2 Eastern, Latrobe,7105.00 ,9600.80 
+2012,June,2 Eastern, Manningham,2948.00 ,2510.20 
+2012,June,2 Eastern, Mansfield,259.00 ,3198.70 
+2012,June,2 Eastern, Maroondah,5093.00 ,4696.90 
+2012,June,2 Eastern, Mitchell,1819.00 ,4999.50 
+2012,June,2 Eastern, Moira,1187.00 ,4139.50 
+2012,June,2 Eastern, Monash,6231.00 ,3455.70 
+2012,June,2 Eastern, Murrindindi,464.00 ,3448.30 
+2012,June,2 Eastern, South Gippsland,876.00 ,3136.90 
+2012,June,2 Eastern, Strathbogie,332.00 ,3407.20 
+2012,June,2 Eastern, Towong,193.00 ,3249.20 
+2012,June,2 Eastern, Wangaratta,1683.00 ,6133.80 
+2012,June,2 Eastern, Wellington,2478.00 ,5838.10 
+2012,June,2 Eastern, Whitehorse,5391.00 ,3376.50 
+2012,June,2 Eastern, Wodonga,2463.00 ,6700.60 
+2012,June,2 Eastern, Yarra Ranges,5016.00 ,3347.00 
+2012,June,2 Eastern,Total,68620.00 ,4361.90 
+2012,June,3 Southern Metro, Bayside,3468.00 ,3576.30 
+2012,June,3 Southern Metro, Cardinia,3625.00 ,4507.50 
+2012,June,3 Southern Metro, Casey,11129.00 ,4133.50 
+2012,June,3 Southern Metro, Frankston,9653.00 ,7302.10 
+2012,June,3 Southern Metro, Glen Eira,4583.00 ,3294.40 
+2012,June,3 Southern Metro, Greater Dandenong,11238.00 ,7744.10 
+2012,June,3 Southern Metro, Kingston,7146.00 ,4750.20 
+2012,June,3 Southern Metro, Mornington Peninsula,7244.00 ,4775.20 
+2012,June,3 Southern Metro, Port Phillip,8513.00 ,8522.10 
+2012,June,3 Southern Metro, Stonnington,7341.00 ,7238.90 
+2012,June,3 Southern Metro,Total,73940.00 ,5410.90 
+2012,June,4 Western, Ararat,914.00 ,8017.50 
+2012,June,4 Western, Ballarat,8373.00 ,8656.20 
+2012,June,4 Western, Buloke,206.00 ,3201.70 
+2012,June,4 Western, Campaspe,2139.00 ,5774.70 
+2012,June,4 Western, Central Goldfields,685.00 ,5387.80 
+2012,June,4 Western, Colac-Otway,1166.00 ,5578.40 
+2012,June,4 Western, Corangamite,542.00 ,3290.80 
+2012,June,4 Western, Gannawarra,382.00 ,3638.80 
+2012,June,4 Western, Glenelg,1111.00 ,5604.00 
+2012,June,4 Western, Golden Plains,348.00 ,1775.10 
+2012,June,4 Western, Greater Bendigo,5399.00 ,5196.10 
+2012,June,4 Western, Greater Geelong,12803.00 ,5842.10 
+2012,June,4 Western, Hepburn,546.00 ,3683.00 
+2012,June,4 Western, Hindmarsh,200.00 ,3414.70 
+2012,June,4 Western, Horsham,1312.00 ,6691.10 
+2012,June,4 Western, Loddon,318.00 ,4223.70 
+2012,June,4 Western, Macedon Ranges,1209.00 ,2760.70 
+2012,June,4 Western, Mildura,4395.00 ,8375.40 
+2012,June,4 Western, Moorabool,1231.00 ,4192.40 
+2012,June,4 Western, Mount Alexander,682.00 ,3777.80 
+2012,June,4 Western, Moyne,519.00 ,3183.30 
+2012,June,4 Western, Northern Grampians,702.00 ,5864.70 
+2012,June,4 Western, Pyrenees,221.00 ,3221.60 
+2012,June,4 Western, Queenscliffe,109.00 ,3565.60 
+2012,June,4 Western, Southern Grampians,804.00 ,4884.30 
+2012,June,4 Western, Surf Coast,1161.00 ,4217.20 
+2012,June,4 Western, Swan Hill,1352.00 ,6447.00 
+2012,June,4 Western, Warrnambool,1851.00 ,5599.10 
+2012,June,4 Western, West Wimmera,107.00 ,2539.20 
+2012,June,4 Western, Yarriambiack,304.00 ,4284.70 
+2012,June,4 Western,Total,51091.00 ,5591.70 
+2011,June,1 North West Metro, Banyule,5481.00 ,4456.70 
+2011,June,1 North West Metro, Brimbank,13852.00 ,7233.60 
+2011,June,1 North West Metro, Darebin,9037.00 ,6322.10 
+2011,June,1 North West Metro, Hobsons Bay,4591.00 ,5253.20 
+2011,June,1 North West Metro, Hume,10674.00 ,6124.30 
+2011,June,1 North West Metro, Maribyrnong,7109.00 ,9459.20 
+2011,June,1 North West Metro, Melbourne,24501.00 ,24442.30 
+2011,June,1 North West Metro, Melton,5602.00 ,4973.20 
+2011,June,1 North West Metro, Moonee Valley,5973.00 ,5324.50 
+2011,June,1 North West Metro, Moreland,8688.00 ,5632.50 
+2011,June,1 North West Metro, Nillumbik,1448.00 ,2308.80 
+2011,June,1 North West Metro, Whittlesea,8247.00 ,5128.70 
+2011,June,1 North West Metro, Wyndham,9082.00 ,5448.10 
+2011,June,1 North West Metro, Yarra,8852.00 ,11218.80 
+2011,June,1 North West Metro,Total,123137.00 ,7065.90 
+2011,June,2 Eastern, Alpine,293.00 ,2427.90 
+2011,June,2 Eastern, Bass Coast,1696.00 ,5609.80 
+2011,June,2 Eastern, Baw Baw,1591.00 ,3666.80 
+2011,June,2 Eastern, Benalla,752.00 ,5442.20 
+2011,June,2 Eastern, Boroondara,5188.00 ,3105.40 
+2011,June,2 Eastern, East Gippsland,2615.00 ,6106.10 
+2011,June,2 Eastern, Greater Shepparton,4717.00 ,7639.60 
+2011,June,2 Eastern, Indigo,379.00 ,2474.40 
+2011,June,2 Eastern, Knox,5991.00 ,3874.50 
+2011,June,2 Eastern, Latrobe,6398.00 ,8670.80 
+2011,June,2 Eastern, Manningham,2725.00 ,2334.00 
+2011,June,2 Eastern, Mansfield,315.00 ,3966.30 
+2011,June,2 Eastern, Maroondah,4941.00 ,4603.90 
+2011,June,2 Eastern, Mitchell,2002.00 ,5702.90 
+2011,June,2 Eastern, Moira,1113.00 ,3918.20 
+2011,June,2 Eastern, Monash,6737.00 ,3798.80 
+2011,June,2 Eastern, Murrindindi,452.00 ,3389.60 
+2011,June,2 Eastern, South Gippsland,878.00 ,3191.30 
+2011,June,2 Eastern, Strathbogie,337.00 ,3511.10 
+2011,June,2 Eastern, Towong,172.00 ,2906.40 
+2011,June,2 Eastern, Wangaratta,1641.00 ,6030.40 
+2011,June,2 Eastern, Wellington,2357.00 ,5602.80 
+2011,June,2 Eastern, Whitehorse,5231.00 ,3320.50 
+2011,June,2 Eastern, Wodonga,2293.00 ,6365.00 
+2011,June,2 Eastern, Yarra Ranges,5041.00 ,3385.50 
+2011,June,2 Eastern,Total,65855.00 ,4232.70 
+2011,June,3 Southern Metro, Bayside,2796.00 ,2908.90 
+2011,June,3 Southern Metro, Cardinia,3239.00 ,4271.30 
+2011,June,3 Southern Metro, Casey,11112.00 ,4252.90 
+2011,June,3 Southern Metro, Frankston,9516.00 ,7300.30 
+2011,June,3 Southern Metro, Glen Eira,4465.00 ,3255.50 
+2011,June,3 Southern Metro, Greater Dandenong,11013.00 ,7746.50 
+2011,June,3 Southern Metro, Kingston,6893.00 ,4647.90 
+2011,June,3 Southern Metro, Mornington Peninsula,6980.00 ,4676.10 
+2011,June,3 Southern Metro, Port Phillip,8319.00 ,8552.00 
+2011,June,3 Southern Metro, Stonnington,6920.00 ,7000.30 
+2011,June,3 Southern Metro,Total,71253.00 ,5330.90 
+2011,June,4 Western, Ararat,773.00 ,6825.00 
+2011,June,4 Western, Ballarat,7727.00 ,8117.90 
+2011,June,4 Western, Buloke,302.00 ,4671.30 
+2011,June,4 Western, Campaspe,1886.00 ,5117.40 
+2011,June,4 Western, Central Goldfields,730.00 ,5803.30 
+2011,June,4 Western, Colac-Otway,1072.00 ,5154.10 
+2011,June,4 Western, Corangamite,521.00 ,3152.60 
+2011,June,4 Western, Gannawarra,515.00 ,4926.80 
+2011,June,4 Western, Glenelg,1287.00 ,6484.30 
+2011,June,4 Western, Golden Plains,323.00 ,1703.80 
+2011,June,4 Western, Greater Bendigo,4804.00 ,4710.00 
+2011,June,4 Western, Greater Geelong,12605.00 ,5840.10 
+2011,June,4 Western, Hepburn,495.00 ,3383.70 
+2011,June,4 Western, Hindmarsh,149.00 ,2544.40 
+2011,June,4 Western, Horsham,1455.00 ,7452.70 
+2011,June,4 Western, Loddon,323.00 ,4280.40 
+2011,June,4 Western, Macedon Ranges,1247.00 ,2907.90 
+2011,June,4 Western, Mildura,4708.00 ,9084.90 
+2011,June,4 Western, Moorabool,1075.00 ,3749.60 
+2011,June,4 Western, Mount Alexander,642.00 ,3592.20 
+2011,June,4 Western, Moyne,450.00 ,2783.40 
+2011,June,4 Western, Northern Grampians,842.00 ,6985.20 
+2011,June,4 Western, Pyrenees,220.00 ,3254.90 
+2011,June,4 Western, Queenscliffe,98.00 ,3201.60 
+2011,June,4 Western, Southern Grampians,815.00 ,4918.20 
+2011,June,4 Western, Surf Coast,1015.00 ,3806.30 
+2011,June,4 Western, Swan Hill,1402.00 ,6719.40 
+2011,June,4 Western, Warrnambool,1861.00 ,5696.90 
+2011,June,4 Western, West Wimmera,90.00 ,2099.40 
+2011,June,4 Western, Yarriambiack,257.00 ,3577.90 
+2011,June,4 Western,Total,49689.00 ,5509.30 
