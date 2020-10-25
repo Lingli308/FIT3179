@@ -8,14 +8,25 @@
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
       </head>
       <body>
+          
+      <h1>FIT3179 Week 10 Homework</h1>
       
-      <div id="vis"></div>
+      <h2>Visualization 1: Choropleth Map of Criminal Incident rate in VIC Australia 2019</h2>
+      <div id="vis1"></div>
+          
+      <h2>Visualization 2: Scatterplot of Airbnb's Price & Room Type</h2>
+      <div id="vis2"></div>
       
       <script type="text/javascript">
-        var spec = "js/week9hw.json";
-        vegaEmbed('#vis', spec).then(function(result) {
+        var spec1 = "js/week10_crimerate.vl.json";
+        vegaEmbed('#vis1', spec1).then(function(result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
+          
+        var spec2 = "js/week10_scatterplot.vl.json";
+        vegaEmbed('#vis2', spec2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);  
       </script>
       
       </body>
