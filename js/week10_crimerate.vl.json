@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Criminal Incident Rate per 100,000 population in VIC Australia 2019",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/js/neighbourhoods.json",
+    "format": {"type": "topojson", "feature": "neighbourhoods"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.neighbourhood",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/2019-Data_Tables_LGA_Criminal_Incidents_Year_Ending_June_2020.csv",
+          "format": {"type": "csv", "parse": {"Rate": "number"}}
+        },
+        "key": "Area",
+        "fields": ["Rate"]
+      }
+    }
+  ],
+  "layer": [
+    {
+      "projection": {"type": "equirectangular"},
+      "mark": {"type": "geoshape"},
+      "encoding": {
+        "color": {
+          "field": "Rate",
+          "type": "quantitative",
+          "scale": {"scheme": "blues"}
+        },
+        "tooltip": [
+          {
+            "field": "properties.neighbourhood",
+            "type": "nominal",
+            "title": "Neighbourhood"
+          },
+          {
+            "field": "Rate",
+            "type": "quantitative",
+            "title": "Criminal Incident Rate per 100,000 population"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
