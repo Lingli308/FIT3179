@@ -28,7 +28,7 @@
         "color": {
           "field": "Rate",
           "type": "quantitative",
-          "scale": {"scheme": "blues"}
+          "scale": {"scheme": "reds"}
         },
         "tooltip": [
           {
