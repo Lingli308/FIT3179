@@ -1,7 +1,104 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 500,
-  "height": 500,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "description": "Airbnb Popular Room Type and Price in Melbourne Australia",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
+  },
+  "transform": [
+    {"filter": "datum.number_of_reviews > 0"},
+    {"filter": "datum.price > 0"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "number_of_reviews",
+      "title": "Number of reviews",
+      "type": "quantitative",
+      "axis": {"tickCount": 4},
+      "scale": {"type": "log", "domain": [1, 10000]}
+    },
+    "y": {
+      "field": "price",
+      "title": "Price",
+      "type": "quantitative",
+      "axis": {"tickCount": 4},
+      "scale": {"type": "log", "domain": [1, 100000]}
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "room_type_highlight": {
+          "type": "multi",
+          "fields": ["room_type"],
+          "bind": "legend"
+        }
+      },
+      "mark": "square",
+      "encoding": {
+        "color": {
+          "field": "room_type",
+          "title": "Room Type",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Entire home/apt",
+              "Private room",
+              "Shared room",
+              "Hotel room"
+            ],
+            "range": ["#a6cee3", "#b2df8a", "#1f78b4", "#33a02c"]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "room_type_highlight", "value": 0.8},
+          "value": 0.02
+        },
+        "tooltip": [
+          {"field": "room_type", "type": "nominal", "title": "Room Type"},
+          {"field": "price", "type": "quantitative"},
+          {
+            "field": "number_of_reviews",
+            "type": "quantitative",
+            "title": "Number of Reviews"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "room_type", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['room_type'] =='Entire home/apt' && datum['number_of_reviews']== 426 || datum['room_type']== 'Private room' && datum['number_of_reviews'] == 243",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    }
+  ],
+  "config": {}
+}{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
   "description": "Airbnb Popular Room Type and Price in Melbourne Australia",
   "data": {
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
