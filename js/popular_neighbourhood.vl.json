@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.neighbourhood == 'Melbourne'|| datum.neighbourhood == 'Port Phillip' || datum.neighbourhood == 'Stonnington' || datum.neighbourhood == 'Yarra' || datum.neighbourhood == 'Moreland'"
+    },
+    {"filter": "datum.number_of_reviews > 0"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "aggregate": "count",
+      "field": "id",
+      "type": "quantitative",
+      "axis": {"labelAngle": 0},
+      "title": "Count of Airbnb records"
+    },
+    "y": {
+      "field": "neighbourhood",
+      "type": "nominal",
+      "sort": "-x",
+      "title": "Neighbourhood Name"
+    },
+    "color": {
+      "field": "neighbourhood",
+      "scale": {
+        "range": ["#b30000", "#E3D6C2", "#e34a33", "#fdcc8a", "#fc8d59"]
+      },
+      "title": "Neighbourhood"
+    },
+    "tooltip": {"aggregate": "count", "field": "id", "type": "quantitative"}
+  },
+  "config": {}
+}

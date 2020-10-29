@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
+  },
+  "transform": [{"filter": "datum.last_review != null"},
+  {"filter": "datum.number_of_reviews > 0"}],
+  "layer": [
+    {"mark": "line", "encoding": {"color": {"value": "#db646f"}}},
+    {"mark": "point", "encoding": {"color": {"value": "#911a24"}}}
+  ],
+  "encoding": {
+    "x": {
+      "timeUnit": "month",
+      "field": "last_review",
+      "type": "temporal",
+      "axis": {"labelAngle": 0, "tickCount": 12},
+      "title": "Month"
+    },
+    "y": {
+      "aggregate": "distinct",
+      "field": "id",
+      "type": "nominal",
+      "title": "Count of Airbnb records"
+    },
+    "tooltip": [
+      {
+        "aggregate": "distinct",
+        "field": "id",
+        "type": "quantitative",
+        "title": "Number of Airbnb records"
+      },
+      {"field": "last_review", "timeUnit": "month", "title": "Month"}
+    ]
+  },
+  "config": {}
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
+  },
+  "mark": {"type": "boxplot", "extent": "min-max"},
+  "encoding": {
+    "y": {"field": "room_type", "type": "nominal"},
+    "color": {"field": "room_type", "type": "nominal", "legend": null},
+    "x": {
+      "field": "price",
+      "type": "quantitative",
+      "scale": {"type": "log", "domain": [10, 10000]}
+    }
+  },
+  "config": {}
+}
