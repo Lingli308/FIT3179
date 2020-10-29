@@ -1,8 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Criminal Incident Rate per 100,000 population in VIC Australia 2019",
-  "width": 800,
-  "height": 600,
+  "width": 600,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/js/neighbourhoods.json",
     "format": {"type": "topojson", "feature": "neighbourhoods"}
