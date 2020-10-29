@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 500,
-  "autosize": {"type": "fit", "contains": "padding"},
+  "width": "container",
   "data": {
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
   },
