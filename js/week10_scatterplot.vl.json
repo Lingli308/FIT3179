@@ -47,7 +47,7 @@
               "Shared room",
               "Hotel room"
             ],
-            "range": ["#a6cee3", "#b2df8a", "#1f78b4", "#33a02c"]
+            "range": ["#a6cee3", "#FCB9B9", "#1f78b4", "#DC3220"]
           }
         },
         "opacity": {
