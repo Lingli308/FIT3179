@@ -5,6 +5,7 @@
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
   },
   "width": "container",
+  "height":200,
   "transform": [
     {
       "filter": "datum.neighbourhood == 'Melbourne'|| datum.neighbourhood == 'Port Phillip' || datum.neighbourhood == 'Stonnington' || datum.neighbourhood == 'Yarra' || datum.neighbourhood == 'Moreland'"
