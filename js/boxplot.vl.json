@@ -7,7 +7,19 @@
   "mark": {"type": "boxplot", "extent": "min-max"},
   "encoding": {
     "y": {"field": "room_type", "type": "nominal"},
-    "color": {"field": "room_type", "type": "nominal", "legend": null},
+    "color": {
+      "field": "room_type", 
+      "type": "nominal", 
+      "legend": null,
+      "scale": {
+            "domain": [
+              "Entire home/apt",
+              "Private room",
+              "Shared room",
+              "Hotel room"
+            ],
+            "range": ["#a6cee3", "#b2df8a", "#1f78b4", "#33a02c"]
+          }},
     "x": {
       "field": "price",
       "type": "quantitative",
