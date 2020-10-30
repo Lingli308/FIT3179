@@ -13,7 +13,19 @@
   ],
   "encoding": {
     "theta": {"field": "room_count", "type": "quantitative", "stack": true},
-    "color": {"field": "room_type", "type": "nominal", "title": "Room Type"}
+    "color": {
+      "field": "room_type", 
+      "type": "nominal", 
+      "title": "Room Type",
+      "scale": {
+            "domain": [
+              "Entire home/apt",
+              "Private room",
+              "Shared room",
+              "Hotel room"
+            ],
+            "range": ["#a6cee3", "#b2df8a", "#1f78b4", "#33a02c"]
+          }}
   },
   "layer": [
     {
@@ -33,7 +45,7 @@
           "type": "quantitative",
           "format": ".2f"
         },
-        "color": {"value": "white"},
+        "color": {"value": "black"},
         "opacity": {
           "condition": {"test": "datum['Percentage']> 35", "value": 1},
           "value": 0
