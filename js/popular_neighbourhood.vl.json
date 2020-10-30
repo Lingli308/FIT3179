@@ -19,7 +19,7 @@
       "field": "id",
       "type": "quantitative",
       "axis": {"labelAngle": 0},
-      "title": "Count of Airbnb records"
+      "title": "Count of Airbnb Records"
     },
     "y": {
       "field": "neighbourhood",
@@ -29,6 +29,7 @@
     },
     "color": {
       "field": "neighbourhood",
+      "legend": null,
       "scale": {
         "range": ["#b30000", "#E3D6C2", "#e34a33", "#fdcc8a", "#fc8d59"]
       },
