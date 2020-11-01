@@ -49,7 +49,7 @@
       "field": "id",
       "type": "quantitative",
       "axis": {"labelAngle": 0},
-      "title": "Count of Airbnb Records"
+      "title": "Count of Airbnb Listings"
     },
     "y": {
       "field": "neighbourhood",
