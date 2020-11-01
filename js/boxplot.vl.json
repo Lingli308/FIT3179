@@ -7,7 +7,7 @@
   },
   "mark": {"type": "boxplot", "extent": "min-max"},
   "encoding": {
-    "y": {"field": "room_type", "type": "nominal"},
+    "y": {"field": "room_type", "type": "nominal", "title": "Room Type"},
     "color": {
       "field": "room_type", 
       "type": "nominal", 
@@ -18,11 +18,12 @@
               "Private room",
               "Shared room",
               "Hotel room"
-            ],
-            "range": ["#a6cee3", "#FCB9B9", "#1f78b4", "#DC3220"]
+            ], 
+            "range": ["#1f78b4", "#DC3220", "#a6cee3", "#FCB9B9"]
           }},
     "x": {
       "field": "price",
+      "title": "Price ($)",
       "type": "quantitative",
       "scale": {"type": "log", "domain": [10, 10000]}
     }
