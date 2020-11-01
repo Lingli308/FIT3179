@@ -5,11 +5,21 @@
   "data": {
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
   },
-  "mark": {"type": "boxplot", "extent": "min-max"},
   "encoding": {
     "y": {"field": "room_type", "type": "nominal", "title": "Room Type"},
-    "color": {
+    "x": {
+      "field": "price",
+      "title": "Price ($)",
+      "type": "quantitative",
+      "scale": {"type": "log", "domain": [10, 10000]}
+    }
+  },
+  "layer": [{
+    "mark": {"type": "boxplot", "extent": "min-max"},
+    "encoding": {
+      "color": {
       "field": "room_type", 
+      "title": "Room Type",
       "type": "nominal", 
       "legend": null,
       "scale": {
@@ -20,13 +30,15 @@
               "Hotel room"
             ], 
             "range": ["#1f78b4", "#DC3220", "#a6cee3", "#FCB9B9"]
-          }},
-    "x": {
-      "field": "price",
-      "title": "Price ($)",
-      "type": "quantitative",
-      "scale": {"type": "log", "domain": [10, 10000]}
+          }}
     }
-  },
-  "config": {}
+  }
+  ],
+  "config": {
+    "axis": {"labelFont": "calibri", "titleFont": "calibri"},
+  "legend": {"labelFont": "calibri", "titleFont": "calibri"},
+  "header": {"labelFont": "calibri", "titleFont": "calibri"},
+  "mark": {"font": "calibri"},
+  "title": {"font": "calibri", "subtitleFont": "calibri"}
+  }
 }
