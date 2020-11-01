@@ -23,7 +23,7 @@
       "aggregate": "distinct",
       "field": "id",
       "type": "nominal",
-      "title": "Count of Airbnb records"
+      "title": "Count of Airbnb Listings"
     },
     "tooltip": [
       {
