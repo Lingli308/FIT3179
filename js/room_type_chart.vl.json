@@ -9,7 +9,7 @@
       "aggregate": [{"op": "count", "field": "id", "as": "room_count"}],
       "groupby": ["room_type"]
     },
-    {"calculate": "(datum.room_count/20387)*100", "as": "Percentage"}
+    {"calculate": "(datum.room_count/20387)", "as": "Percentage"}
   ],
   "encoding": {
     "theta": {"field": "room_count", "type": "quantitative", "stack": true},
@@ -34,7 +34,7 @@
       "encoding": {
         "tooltip": [
           {"field": "room_type", "type": "nominal", "title": "Room Type"},
-          {"field": "Percentage", "type": "quantitative", "format": ".2f"}
+          {"field": "Percentage", "type": "quantitative", "format": ".2%"}
         ]
       }
     },
@@ -44,11 +44,11 @@
         "text": {
           "field": "Percentage",
           "type": "quantitative",
-          "format": ".2f"
+          "format": ".2%"
         },
         "color": {"value": "white"},
         "opacity": {
-          "condition": {"test": "datum['Percentage']> 35", "value": 1},
+          "condition": {"test": "datum['Percentage']> 0.35", "value": 1},
           "value": 0
         }
       }
