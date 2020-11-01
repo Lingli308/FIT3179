@@ -19,7 +19,7 @@
     },
     "y": {
       "field": "price",
-      "title": "Price",
+      "title": "Price ($)",
       "type": "quantitative",
       "axis": {"tickCount": 4},
       "scale": {"type": "log", "domain": [1, 100000]}
@@ -46,8 +46,8 @@
               "Private room",
               "Shared room",
               "Hotel room"
-            ],
-            "range": ["#a6cee3", "#FCB9B9", "#1f78b4", "#DC3220"]
+            ], 
+            "range": ["#1f78b4", "#DC3220", "#a6cee3", "#FCB9B9"]
           }
         },
         "opacity": {
@@ -56,7 +56,7 @@
         },
         "tooltip": [
           {"field": "room_type", "type": "nominal", "title": "Room Type"},
-          {"field": "price", "type": "quantitative"},
+          {"field": "price", "type": "quantitative", "title": "Price ($)"},
           {
             "field": "number_of_reviews",
             "type": "quantitative",
@@ -76,7 +76,7 @@
       },
       "encoding": {
         "text": {"field": "room_type", "type": "nominal"},
-        "color": {"value": "black"},
+        "color": {"value": "white"},
         "opacity": {
           "condition": {
             "test": "datum['room_type'] =='Entire home/apt' && datum['number_of_reviews']== 426 || datum['room_type']== 'Private room' && datum['number_of_reviews'] == 243",
