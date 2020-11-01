@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
   },
-  "width": "container",
+  "width": 250,
   "transform": [
     {
       "aggregate": [{"op": "count", "field": "id", "as": "room_count"}],
@@ -14,7 +14,7 @@
   "encoding": {
     "theta": {"field": "room_count", "type": "quantitative", "stack": true},
     "color": {
-      "legend": null,
+      "legend": {"direction": "horizontal", "orient": "top"},
       "field": "room_type", 
       "type": "nominal", 
       "title": "Room Type",
@@ -55,5 +55,11 @@
     }
   ],
   "view": {"stroke": null},
-  "config": {}
+  "config": {
+      "axis": {"labelFont": "calibri", "titleFont": "calibri"},
+  "legend": {"labelFont": "calibri", "titleFont": "calibri"},
+  "header": {"labelFont": "calibri", "titleFont": "calibri"},
+  "mark": {"font": "calibri"},
+  "title": {"font": "calibri", "subtitleFont": "calibri"}
+  }
 }
