@@ -39,7 +39,7 @@
       }
     },
     {
-      "mark": {"type": "text", "radius": -75, "fontStyle": "bold"},
+      "mark": {"type": "text", "radius": -65, "fontStyle": "bold", "fontSize": 8},
       "encoding": {
         "text": {
           "field": "Percentage",
