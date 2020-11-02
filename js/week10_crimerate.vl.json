@@ -26,7 +26,7 @@
       "encoding": {
         "color": {
           "field": "Rate",
-          "title": "Criminal Incident Rate per 100,000 population",
+          "title": "Criminal Incident Rate",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
