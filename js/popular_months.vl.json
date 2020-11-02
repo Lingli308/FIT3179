@@ -20,17 +20,18 @@
       "title": "Month"
     },
     "y": {
-      "aggregate": "distinct",
-      "field": "id",
-      "type": "nominal",
-      "title": "Count of Airbnb Listings"
+      "aggregate": "sum",
+      "field": "number_of_reviews",
+      "type": "quantitative",
+      "title": "Sum of Airbnb Reviews"
     },
     "tooltip": [
       {
-        "aggregate": "distinct",
-        "field": "id",
+        "aggregate": "sum",
+        "field": "number_of_reviews",
         "type": "quantitative",
-        "title": "Number of Airbnb records"
+        "title": "Sum of Airbnb Reviews",
+        "format": ","
       },
       {"field": "last_review", "timeUnit": "month", "title": "Month"}
     ]
