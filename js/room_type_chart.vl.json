@@ -14,7 +14,7 @@
   "encoding": {
     "theta": {"field": "room_count", "type": "quantitative", "stack": true},
     "color": {
-      "legend": {"direction": "vertical", "orient": "left"},
+      "legend": {"direction": "horizontal", "orient": "left"},
       "field": "room_type", 
       "type": "nominal", 
       "title": "Room Type",
