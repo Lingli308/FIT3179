@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/Lingli308/FIT3179/main/data/listings.csv"
   },
-  "width": 250,
+  "width": "container",
   "transform": [
     {
       "aggregate": [{"op": "count", "field": "id", "as": "room_count"}],
